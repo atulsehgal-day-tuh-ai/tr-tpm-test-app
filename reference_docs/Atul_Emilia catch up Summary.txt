@@ -1,0 +1,57 @@
+Atul/Emilia catch up
+Tue, Dec 23, 2025
+
+Summary:
+
+The discussion centered on the development of a new financial tracking tool to enhance forecasting and budget management for a potential project. Atul is currently on vacation in India and will return on January 11th. Emilia highlighted the urgency of completing vendor paperwork, while Katie emphasized the limitations of the existing leading indicator tool, which only tracks volume without incorporating forecasted trade spend. The need for a user-friendly tool that integrates financial data across multiple accounts was underscored, with both Katie and Emilia agreeing on the necessity of collaboration with Ellen and Lana to ensure the tool meets their requirements.
+
+Atul proposed creating a web app to replace the current Excel tool, suggesting a prototype could be ready within one to two weeks for user feedback. Emilia is coordinating the project kickoff timeline, considering team members' availability, and emphasized the importance of completing necessary paperwork and NDAs before the kickoff. Katie plans to create an interim Excel file for data management, while Atul offered assistance to expedite this process. The conversation also touched on the need for flexibility in future projects and the importance of automating customer development tasks to improve efficiency.
+
+
+Chapters & Topics:
+
+Project Discussion and Tool Feedback
+Atul is on vacation in India and will be back in the States on January 11th. Emilia mentioned the need for Atul to complete vendor paperwork for a potential project, while Katie expressed concerns about the complexity of the current leading indicator tool and the necessity for improved forecasting capabilities. Katie emphasized the importance of having a tool that can project volume and spending effectively.
+* Development of a web app as a tool for forecasting and spend tracking
+* Current challenges with the existing leading indicator tool
+
+Budget and TPM Tool Development
+Katie Giesler highlighted the necessity of building a tool that incorporates financial data and allows for tracking projected versus actual spending. She mentioned that Lana has created a phasing file that needs validation to ensure it aligns with projected spends. Emilia Tauss pointed out that the budget should be based on volume and trade spend, and stressed the need for actual data to refine forecasts.
+
+Project Budget and Forecast Discussion
+Emilia Tauss shared updates on the approved slotting fees and sought confirmation from Lana regarding financial data handling. Katie Giesler highlighted the critical nature of Lana's file for accurate budget projections, particularly in relation to Kroger's costs. They acknowledged past oversights in data handling that contributed to discrepancies in financial reporting.
+
+Discussion on Web App Development
+Atul Sehgal discussed the advantages of creating a web app over using Excel, highlighting its potential for better user experience and scalability. He mentioned his ability to quickly develop a prototype using AI tools and requested a contractor ID to facilitate deployment in the appropriate environment. Emilia Tauss inquired about the variables affecting project completion time, to which Atul clarified that the number of accounts is less significant than the features included in the app.
+* Vendor setup and paperwork for Atul Sehgal
+* Project timeline and scheduling of kickoff meetings
+
+Project Kickoff Planning
+Emilia Tauss and Katie Giesler are working on scheduling a project kickoff meeting while managing their vacation schedules. Emilia mentioned the need to complete paperwork before the meeting, which will take three to five business days. They tentatively planned to meet on January 5th, with Atul Sehgal indicating he would be available except for a 30-minute court case meeting.
+
+Project Onboarding and Interim Solutions
+Emilia Tauss emphasized the need for a kickoff call on January 6 to ensure Atul is connected with the appropriate contacts for project questions. Katie Giesler indicated that she plans to use a basic Excel file for interim data management, with a goal to have everything ready by the end of January. Atul Sehgal offered to assist with the interim solution while working on the full-time solution.
+* Interim solutions for tracking costs and volume
+
+Project Collaboration and Automation Discussion
+Emilia Tauss proposed getting the necessary paperwork in place to streamline future projects and mentioned the importance of determining project hours for issuing a purchase order. Atul Sehgal assured that he would work efficiently and leverage AI tools to create effective solutions. Emilia also highlighted the need for automation in customer development processes.
+
+
+Action Items:
+
+* Emilia Tauss will send the vendor packet to Atul Sehgal for completion to set him up in the system.
+* Atul Sehgal will develop a prototype of the web app within one to two weeks for the team to review.
+* Atul Sehgal will confirm his availability for a meeting on January 6th to discuss the project further.
+* Emilia Tauss will schedule a kickoff call with Atul Sehgal, herself, and Lana after the New Year to discuss the project scope.
+* Katie Giesler will build a file for her team to update with costs and volume by event for January and February.
+
+
+Key Questions:
+
+* What is the timing for replicating the current leading indicator tool?
+* What interim solution can be used while the full tool is being developed?
+
+
+Notepad:
+
+* No notes

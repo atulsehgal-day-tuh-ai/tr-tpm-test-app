@@ -1,0 +1,458 @@
+Atul/Emilia catch up
+Tue, Dec 23, 2025
+
+0:17 - Unidentified Speaker
+Hi Katie.
+
+0:19 - Atul Sehgal
+Can you hear me?
+
+0:21 - Unidentified Speaker
+Yes, yes, yes. How are you doing?
+
+0:23 - Atul Sehgal
+Good, how are you?
+
+0:24 - Unidentified Speaker
+Good, good, good.
+
+0:30 - Unidentified Speaker
+OK, so I thought.
+
+0:33 - Atul Sehgal
+Oh, so Emilia invited you as well, so yeah, she did. OK, OK. So how's everything going? How about you? I'm just, I'm on vacation. Uh, I mean, I've actually, I'm really, really on vacation since I don't have job, but I'm in India right now. And, uh, uh, yeah, for, for three weeks, my family.
+
+1:02 - Unidentified Speaker
+I mean, you're leaving tomorrow, right?
+
+1:06 - Unidentified Speaker
+Oh no, I'm, I'm already here. Oh, you're already in India. So what time is it there?
+
+1:10 - Atul Sehgal
+It is 1133 p.m.
+
+1:17 - Unidentified Speaker
+Yeah, it's the other time zone.
+
+1:22 - Unidentified Speaker
+So when will you be back to the States?
+
+1:26 - Atul Sehgal
+On 11th, 11th of January.
+
+1:30 - Unidentified Speaker
+Yes, yes. Got it. Got it.
+
+1:32 - Emilia Tauss
+OK, well, thanks for taking the time here while it's already almost midnight your time so I figured I have Katie joining me because we definitely might have a potential project for you to work on and before we go into like what the project is I'll probably gonna like one step would be to give you like a form of a paperwork so that you can fill it out because you have to be in our system so that will be like for the bank account where to pay you and W9, I believe, so I'm not too sure if you're going to use LLC or what. I'm going to send you the packet so that I can submit it into our system for you to be set up as a vendor.
+
+2:18 - Unidentified Speaker
+So now let's talk about a potential project.
+
+2:21 - Emilia Tauss
+So I recall you helped Katie in the past with some kind of a leading indicator, yeah? Yes, it was.
+
+2:34 - Unidentified Speaker
+Yeah, the one we used this year, yeah.
+
+2:38 - Emilia Tauss
+Yeah, so I would like to better understand, Katie, from your perspective, do you want it to be like exactly the same? I know it might be tweaked a little bit because I know in the version that you got from Alan, it has the new item. I do not know how difficult that is or is that something that you would like to be included as well? And like I would like understand like more like the scope like what do you need is it totally different than the previous leading indicator because just so you know at all the feedback I heard the tool broke sometime and the team doesn't know how to deal with it and some of the feedback that I got just overheard because I don't use the tool myself I see it when the team got the training it's a little bit more complicated to some of the teams. So, Katie, I would love to get your point of view if you think is the tool, the existing tool, too complicated? Should we try to simplify? Like, what's your thought?
+
+3:42 - Unidentified Speaker
+So, the only place it broke is Natalie's roll-up. So, everybody else can still do it and see it. If his tool is complicated, then Ellen's is going to be more complicated.
+
+3:56 - Katie Giesler
+Yeah, so I mean, what I've been saying for three months now, all I need is we need volume, be able to do volume projection for forecasting. And then we need to get our spends, we need to be able to forecast our spend. So like, I think what Ellen's building is good, but I don't know how long it would take her to build. I mean, I think a tool could help to like, see the framework and then help kind of pipe the back end stuff in it, and then we can get it up and running a lot quicker. So, I mean, if people were saying that our current leading indicators is confusing, then the one Ellen has is going to be even more confusing.
+
+4:42 - Unidentified Speaker
+It's more confusing?
+
+4:44 - Emilia Tauss
+Okay, got it.
+
+4:44 - Unidentified Speaker
+I mean, once you understand it, it's simple, just like, I mean, just like what a tool made, but there's a lot that would overwhelm probably half of our team.
+
+4:55 - Katie Giesler
+And I gave that a lot of slack.
+
+4:56 - Unidentified Speaker
+I mean, all I wanted was forecasting and spend. And then new items got thrown in there. She pulled Turkana in there.
+
+5:05 - Katie Giesler
+I do like the idea of Lana pulling in the phasing of the spends we talked about yesterday. To me, I need the forecast and the fore... I basically need a pseudo TPM tool.
+
+5:19 - Unidentified Speaker
+And what I need. Because it's going to take what, Katie, 18 months usually, right, to get a TPM tool?
+
+5:27 - Katie Giesler
+And we're like, so like what we like, we need to, we need this for the national accounts first. I mean, we need it for everybody. But we need it for the national accounts first, because there's been a good focus on looking at our financials and our spends and everything this past year.
+
+5:48 - Unidentified Speaker
+You know, this is we need to do it.
+
+5:51 - Katie Giesler
+We need it across to everybody. We're behind. Obviously, it's December 23rd. But because Ellen got told to hold on it for a month, I didn't know about so. But I just don't know. And I asked I sent her an email yesterday and I asked her, like, what's the timing to replicate this? What's like the timing of getting financials in here? And she was still waiting on a file from law So, I do think a tool, if you came in and understood how, because I think the framework's good.
+
+6:22 - Unidentified Speaker
+It's a little confusing until you understand it.
+
+6:25 - Katie Giesler
+The framework's good, but how can we get that and replicate it for every, you know, at least the national accounts to start, and then we can go to the regional accounts.
+
+6:38 - Unidentified Speaker
+Can I ask you the leading indicator version that we have?
+
+6:43 - Emilia Tauss
+Does it even have the forecasted trade spend in that version? No, it's just volume.
+
+6:50 - Unidentified Speaker
+What we currently have is just volume. When we built this with the tool last November, we didn't have any line of sight to anything.
+
+7:02 - Katie Giesler
+We didn't even look at it at that point, right? So, no, it's just volume.
+
+7:08 - Unidentified Speaker
+The only thing it doesn't have is the percent change by package.
+
+7:11 - Katie Giesler
+and I asked Ellen to add that into hers. Versus year ago?
+
+7:16 - Unidentified Speaker
+Versus year ago versus budget versus forecast, yeah. So like you've got a budget, you've got a forecast, you've got an actual, and then you've got the difference versus budget forecast year ago.
+
+7:31 - Katie Giesler
+So that we can see by package, because the by package part's the most important piece, because then the team can look at the trends by package, where right now, because the file, he couldn't do it in the file, because it would have broke. But in the file, we have the packages, so you could manually go down and calculate it, but nobody does it. So I want to be able to say, like, in January, we forecasted 100,000 cases, and we came in at 90.
+
+7:59 - Unidentified Speaker
+In February, we forecasted 100, and we came in at 90.
+
+8:03 - Katie Giesler
+Well, then, you know what, Marge, we probably need to pull that down, unless you can prove to me that there's something that's going to drive it up because that's a trend, right? So, so I do think what Ellen has is a good basic tool and she's pulling from different sources. I just, I don't know how, there's no way she's going to build, we need to build this, you know, for multiple accounts and then somehow connect them.
+
+8:31 - Unidentified Speaker
+And she hasn't gotten to that point yet. And then we need to get financials in there.
+
+8:37 - Katie Giesler
+And that might take a minute, but I feel like we need your support to help us work with Ellen to kind of develop this. And I think it could be good. If we can get the financials in there, it can be a pseudo TPM tool.
+
+8:53 - Unidentified Speaker
+Now, it's not going to have a place to put actual invoices in, but like we talked about, Emilia, yesterday, if we have an actual and then an actual forecasted, or what our actual is based on what the numbers come in, and then an invoice actual, then it would be a TPM tool, like a full TPM tool.
+
+9:18 - Katie Giesler
+But I don't know if we're going to be able to get, I don't know if we'll get to that point yet right away either, but I don't know if that helps.
+
+9:27 - Emilia Tauss
+Yeah, can I ask you from, I know The key information, if we want to move forward, definitely is the budget from Lana, right? Is the budget the budget from volume, or is the budget the budget from the cost, like the trade?
+
+9:46 - Katie Giesler
+So, Lana has created a phasing file that she hasn't shared, but she walked us through it. And in the phasing file, she's phasing it by spend. She's pulling out of Now she can add, she said she had to get with Ben to add volume by month. Now her roll up is going to be inclusive of like everything, but then we can go by customer by customer. So she has it built out by like the top 10, top 10 retailers.
+
+10:19 - Unidentified Speaker
+So I think getting her on a call, her, Ellen, Atul, and me, would be really, because I met with Alana and Elinia last week, and Alana was going to work on that.
+
+10:33 - Katie Giesler
+I don't know, I haven't seen anything since, but yeah, so I think that will, that'll be key. Like, because she has a file. She pulled it out of Anaplan, total, and she phased it, but she's just phasing it by like, I don't even know how she phased it. And that's why we we need to meet to validate that what she has projected spend is what we have projected spend, if that makes sense.
+
+11:02 - Emilia Tauss
+Got it.
+
+11:04 - Emilia Tauss
+I mean, the team plan and Anna plan based on promotion, right? And then we have it, we have them done it for the 2026. So I felt like whatever is in the volume that they plan would be whatever the budget and then the budget because it's a case rate per, a trade spend per case, and we have the case. So the budget, we can plan it. It's already in ANAPLAN, and we can, and again, ANAPLAN currently do not ingest with the real one, so that's why we have to do all this outside of ANAPLAN, where in other organization, probably everything should be in ANAPLAN. Yeah, it would be.
+
+11:46 - Unidentified Speaker
+The TPM tool is in ANAPLAN. Have the budget from the volume, from the span.
+
+11:53 - Emilia Tauss
+What we need is when the actual data comes in, then we can have the forecasted span based on the actual, once it comes in, when it actually happened, because we know how many cases for that promotion. Then we multiply by the case rate, whether it's the AR scan, then you have that. So you will measure that against the budget. Right, above or under, then when the invoice comes in the future, then you have another line for the actual, actual invoice.
+
+12:27 - Unidentified Speaker
+So, you can see it against the budget, against the ago, from volume and the spend. And the spend, yeah.
+
+12:37 - Katie Giesler
+So, the only caveat to that is the, like, yeah, the budget should be the budget.
+
+12:46 - Unidentified Speaker
+the budget over from Anaplan. But then I want to, to your point, I want to add a line that has Lana's forecasting by account. So I want to have her forecasted accrual. And then to your point, we have an actual, and then we have an actual invoice, if we can get to that line.
+
+13:06 - Katie Giesler
+But an actual, when we get the volume in through Cercana, we can then just put it in because Ellen had and the team would have to go in and do this, but put their case rates in. So when they put their case rates in, it'll just generate that spend.
+
+13:22 - Unidentified Speaker
+Now, she showed me a roll up that I think will work.
+
+13:26 - Katie Giesler
+She was gonna work on it.
+
+13:27 - Unidentified Speaker
+I just haven't seen it come back yet.
+
+13:29 - Katie Giesler
+So I think we've got a lot of the pieces and I think Lana's file is critical to just have that baseline because we've gotta go against what she's giving Luke and Ken, right? So like, I need to know, like if she's giving Luke and Ken $300,000 for Kroger this month and we're projecting seven, we got to call that out so that she can change her forecast.
+
+13:53 - Unidentified Speaker
+So you know what?
+
+13:54 - Emilia Tauss
+I share with her yesterday, it's not like I do this to hear this, but since you're bringing it up, I share with her and for leak and some of my team member, the approved slotting fee that I just got from the CS today.
+
+14:09 - Unidentified Speaker
+hey, FYI, give you visibility.
+
+14:11 - Emilia Tauss
+And then I said, for Liklana, can you confirm with me for the slotting from finance and accounting perspective, do you peanut butter it across the months or is it incurred hitting the budget when the reset occurs? So I haven't seen the response yet, but then Lana respond back, hey, can somebody confirm what are you gonna do with whatever the fund that we offer a spam that you told me about it because she was still using the old one before the price increased. So there is that she was asking me is like, why is she asking me?
+
+14:48 - Unidentified Speaker
+She's the new way to mistake of not pulling the right data. Well, and it wasn't it wasn't her. It wasn't her fault, though. Like I mean, it's a combination, right? Like she's pulling. She was pulling dollars and the dollars were attached to volume and no one ever put volume in the new Yes, yes, yes. So in 2026, we won't have that issue. I know, I know. But yes, he's like, what are you going to do about this overspend?
+
+15:14 - Emilia Tauss
+I'll keep quiet.
+
+15:16 - Unidentified Speaker
+I mean, so technically it's not an overspend. We shared what it was going to cost us to buy Kroger down. And I already had a call with Luke and Ken and Adam on that and Lana. So we went through that two weeks ago. I'm like, guys, this was shared.
+
+15:33 - Katie Giesler
+Multiple times now the the fact that we shifted it Like we didn't have the team go put volume in for the new cost that was in the company made That's not on a cam. That's not on Lana and they all agreed. They're like, that's fair We didn't we didn't think about it and I'm like, I didn't think about it.
+
+15:52 - Unidentified Speaker
+So Um, so yeah, so that's where okay So what is next step?
+
+16:00 - Emilia Tauss
+I'm going to send the fender packet at all so that you can fill it out and we can set you up as a fender. Then after that, we're going to probably have to scope it out. And before we scope it out, we need to figure out like how, like either is it based on project? Is it based on number of hours? So we might have a SOW because then I'm going to have to issue a PO. Everything now is driven by PO as you know, but say, if it's going to take 100 hours, we can issue a PO for 100 hours, and as and when you bill us, I told, oh, for these two weeks, I don't know how you're going to charge us. For these two weeks, it's only 25 hours or whatever. So I will just accept the 25 hours, so it will deduct it from the overall 100 hours PO that I'm issuing, for example. So that's how it works right now with the new system that we have to issue. And stuff like that. But once we get the paperwork done, I think the key would be to get Lana, yourself, myself, and Alan on the call, yeah, to share. And in the meantime, and of course, Atul, I'm going to have to, like, as part of the package, there's the NDA that we're going to have to sign and all those, so everything is protected. Then we can start sharing file with you in terms of what Alan has put together so far, so you can start taking a look but you heard some of our conversation, right? It's basically by retailer, by PPG, what is the budgeted volume and span? What is Lana from finance allocate, right? And then what, once the promotion happened, we know what the unit sales, but then we know what the rate per case for the span. So we can calculate that. And then in the future, future will be once the invoice comes from distributor and retailer, then you have another one that is total actual actual. So that way you have four different information and the information we want is versus budget versus actual so that you can see the other way around.
+
+18:09 - Unidentified Speaker
+And then we have the focus would be the top national account first.
+
+18:14 - Emilia Tauss
+But I felt like if you nail this down, this could be easily expanded. Or the regional account or whatnot. So that we can roll it out to each of the director's level, because multiple accounts will roll up to a certain director. So we want to have visibility to the director's level as well. We want to have visibility to the PPG and flip it the other way around, regardless whatever account, what is the accuracy of forecast versus budget versus actual for PPG. So you see how it, like, think about that.
+
+18:50 - Emilia Tauss
+do you foresee that one will be like, again, to Katie's point, this is kind of like almost like a TPM tool because we don't have one that's working. So will this be still in like an Excel? No, no, no.
+
+19:03 - Atul Sehgal
+That's where I was going. I was thinking about it. It should not be in Excel. The reasons that, first of all, I hope I'm audible and my voice is not breaking. Am I?
+
+19:14 - Unidentified Speaker
+Yeah, no, it's good.
+
+19:19 - Emilia Tauss
+Now we cannot hear you.
+
+19:19 - Unidentified Speaker
+I don't know. Is it like there is a void a little bit?
+
+19:25 - Emilia Tauss
+We cannot hear you at all.
+
+19:32 - Atul Sehgal
+I am. I'm so. I'm so sorry. Can you hear me now?
+
+19:39 - Unidentified Speaker
+Yeah, we can.
+
+19:40 - Atul Sehgal
+I I'm really sorry I I don't know. I have two Wi-Fi and none of them are working right now. I hope you can still hear me.
+
+19:49 - Unidentified Speaker
+Yeah, I can hear you now.
+
+19:50 - Unidentified Speaker
+Yeah, this one is okay.
+
+19:54 - Atul Sehgal
+So, yeah, I definitely believe that this should not be in Excel. The reason people found existing tool to be a bit more complicated to use this because of it being in Excel. And now I can easily build a web app, which is very, I would say, which will have very good user experience and I can stand it up very quickly and I can deploy it in your environment. So I think we need to go with the web app so that it is scalable as well so that you bring Salgana, you bring Vermont data if you have to and you can do so many things. So I want to build something that is scalable and definitely has very good user experience.
+
+20:41 - Emilia Tauss
+And then do we have to set you up with like a contractor ID to be able to set it up in our environment?
+
+20:52 - Atul Sehgal
+Yeah, that will be great if you can set it up. Set me up as if you can give me a talking rain ID and it will be very easy for me to get in the environment and deploy it on whatever cloud platform you use.
+
+21:07 - Emilia Tauss
+Got it, OK. So what is the web app called?
+
+21:13 - Atul Sehgal
+So I'm going to develop it, I believe, initially on node.js. And I actually built an app in like four hours for my father-in-law for some project. And it was a serious app. It was not a toy app. And I was able to build it very fast using the AI.
+
+21:37 - Atul Sehgal
+with this AI, it's very easy, like it's called wipe coding. So you just ask it a few questions, and it's gonna stand up app for you. And we just keep, and then I can put the, the work will go in cyber security and user access management, but it would be on node.js, and I can deploy it on there. So one thing I can really do is first stand up a quick prototype. Okay that you and your teams can use and tell me if this is this is what they want or if they want tweaks so first we can like in first I would say one or two weeks we can just do the prototype for people to touch and feel the app how it looks like and provide direction and then we can do the full scale development so if we can okay so I'm just trying to figure out timing right so you said it's in building, it's not that an issue.
+
+22:37 - Emilia Tauss
+If, let me ask you this, what is the variables for you to complete the project? Meaning the more account you need to do, the longer it takes, or it doesn't matter how many account as long as we give you, here's the raw data. We have five account versus a hundred account. And then because the data, the one that budget from come from and a plan, that should be a data dump, right? So to my point being for the budget, it should be, it doesn't matter how long it'll take, whether it's five account or 20 account, right? But what is the variable that would make a difference in themselves? You can get it done in two weeks versus four weeks.
+
+23:25 - Atul Sehgal
+So it definitely is not the account. Really the features, the number of features you want in that app. And one way to move quickly and get it done efficiently is if I can get enough time from your team in first two weeks to approve the prototype.
+
+23:44 - Unidentified Speaker
+Once we all agree on the prototype, then it is very quick to build the app.
+
+23:54 - Emilia Tauss
+I'm going to have to figure out. I know Alan has some PTO. In fact, today she's on PTO, so I need to find out when her availability is, but do you think, do we really, just in case she's not available, Katie, and I do not know what your vacation schedule is like, because I will be on vacation starting tomorrow, half a day, all the way to New Year, what is your availability, Katie?
+
+24:17 - Unidentified Speaker
+I'm off tomorrow through the New Year. Okay, got it.
+
+24:22 - Emilia Tauss
+So I think in terms of timing, I mean, it seems like when we want to kick off the project, because obviously right now we can start with the paperwork. So get the paperwork done first. It's going to take three to five business days. But then, like, after the New Year, if we can set up maybe a time on maybe January 5th. Are you flying here on Sunday, Katie?
+
+24:44 - Katie Giesler
+You're flying on Monday.
+
+24:46 - Emilia Tauss
+So you arrive on Monday. So we might have time, like, Tuesday morning then or something?
+
+24:53 - Katie Giesler
+And I have a legal call at nine, but then I'm good. So we could meet. Nine Pacific?
+
+25:00 - Unidentified Speaker
+Nine Pacific, yeah. Okay, all right. About an hour-ish? Yeah, it's an hour. Okay, all right. So maybe a little bit more like maybe 10 or 11 or something.
+
+25:11 - Emilia Tauss
+So I told, you said you will be back in the States on the 11th. So for the 6th, January our time if it's around so right now it's about it's 11 like you're 13 ahead so I was thinking around like 1030 so that will be like 1130 like midnight your time or on the in that case it's still Tuesday Tuesday January 6 around 1130 on words will you be able to make it?
+
+25:54 - Atul Sehgal
+Yeah, I will I will be able to make most of the time I just have a 30 minute meeting on 6th of January. It's a it's a court case. OK, so that I cannot skip because it is logged. OK, so I just need to check the time on that one, but I feel free to book anytime like I don't even care if it is your evening. I can make any time, but I just have to avoid that 30 minute slot. That's all.
+
+26:21 - Emilia Tauss
+OK, and then you know right after you're going to confirm with me what is your minute block that you cannot make it. Yes, yes, yes. So let's do that Katie. Let's let's I'll gonna set up the paperwork first. That's going to take like between end of this week to next week to get it set up and then we need to have like like NDA sign and everything. And once we get that going, then I can do onboarding, like setting him up with talking through an email, start sending the file that has been built so far, right? And then let's have that kickoff call on the 6th, hopefully everything has been signed by then, so that we can have you connect Atul with the right person to make sure we get all of the questions answered, because again, that's my feeling, my gut feeling tells me it doesn't matter how many accounts, right? Because the data is the data. It's more about what time do you, how much time do you need for stuff that will be the valuable time that might drag this, because Katie needs this pretty quickly.
+
+27:35 - Unidentified Speaker
+Katie, can you share with us your Is it mid-January?
+
+27:40 - Emilia Tauss
+Is it yesterday?
+
+27:42 - Unidentified Speaker
+Well, yesterday, but yeah, I mean, I think if we could, and I want to do it right.
+
+27:49 - Katie Giesler
+So I think if we can plan to have it done by the end of January, that would be okay.
+
+27:54 - Unidentified Speaker
+And then we can, I just need to find an interim solution.
+
+28:00 - Katie Giesler
+I might just use the file we have offline right now.
+
+28:06 - Katie Giesler
+But ideally, my goal would be the end of January. We could go live with it.
+
+28:15 - Unidentified Speaker
+I told a lot and I can help with that in interim solution. Sorry, I can help you that interim solution that speed things up.
+
+28:21 - Atul Sehgal
+I'm not trying to accumulate more hours OK for billing, but if you want I can help with that interim solution while I'm building the full time solution. Yeah, that would be great.
+
+28:33 - Katie Giesler
+I mean right now I just have a basic Excel file, and I'm going to have the team go in and put their costs and their volume by event so we can generate a spend and volume. And they're all going to be individual. So that's kind of what I was going to do in the interim. But if we meet on January 6, there's something that we could do, then yeah, that would be But I think I'm just going to probably do that for right now.
+
+29:08 - Emilia Tauss
+But when you say right now, Katie, isn't it like most of your team is on PTO? Are you expecting them to fill it out right now? No, they'll be.
+
+29:16 - Unidentified Speaker
+Yeah, most of them are on PTO. I just need to build the file for them and then they're going to have to update it because I haven't updated the file. The file is only for October through December.
+
+29:26 - Katie Giesler
+So, I'll just need to build the file for at least January and maybe February. I might just build it January, February, March. And then, you know, we can use this as a backup.
+
+29:38 - Unidentified Speaker
+And as we get going on this. Because, I mean, again, the priority is forecast and spend. And that's as basic as we need to have visibility on in the short term.
+
+29:52 - Katie Giesler
+I would have my team update it by the end of the first week of January, so I know we're behind, but we I kind of already went through January with Lana, so I feel OK, but we gotta do February.
+
+30:07 - Unidentified Speaker
+You know, so yeah, so now nobody will be doing any work on it in the next week, but I just want to have the file ready for them so. Got it.
+
+30:18 - Emilia Tauss
+Got it. Yeah, also I thought Well, I think that's the right way to do.
+
+30:23 - Unidentified Speaker
+Let's get the paperwork set up.
+
+30:24 - Emilia Tauss
+That way you're already in our system. And then beyond this project, we might have many projects here and there, but that makes it us more flexible in themselves working together.
+
+30:37 - Unidentified Speaker
+So that's my recommendation.
+
+30:41 - Atul Sehgal
+That sounds good. All right.
+
+30:45 - Emilia Tauss
+And then once we have that kickoff, then we need to figure out, how many hours for this project and all this stuff, so we can issue you the PO.
+
+30:54 - Unidentified Speaker
+All right.
+
+30:55 - Emilia Tauss
+Anything else, Katie?
+
+30:59 - Unidentified Speaker
+Go ahead, Ritual.
+
+31:03 - Atul Sehgal
+I just want to reiterate, I work very fast. I'm going to work very fast, and I'm going to develop something very sustainable. So, you will have full value for money here. And I will really exploring the new AI in one of the tools. And I cannot believe how powerful it is. I was able to stand an entire application, a working application in less than four hours.
+
+31:29 - Emilia Tauss
+I might ask you a bunch of questions more for personal. My brother is doing the same thing he was doing. And I think he's just doing Gemini, but I don't know, like he's creating an app just like using prom starts like, oh my God.
+
+31:46 - Unidentified Speaker
+I know, I have no idea about any of that.
+
+31:48 - Unidentified Speaker
+That's why you guys are the smart people.
+
+31:50 - Katie Giesler
+So yeah, so like a tool you could probably help me with what I'm trying to do in the short term easily, I'm sure.
+
+31:57 - Emilia Tauss
+So yeah, so yeah, so this right and what I was thinking, right, Katie is more like about how can we create more automation for maybe customer development for CMA for all the C store, because It's kind of like very manual right now.
+
+32:14 - Unidentified Speaker
+We have different tasks for different accounts.
+
+32:16 - Emilia Tauss
+Then we have to roll it up. Like, how are you going to roll it out? How can we just have the form that collects this information in the background so that the repository is like one location? Then you can do visualization, roll up, or whatever with this.
+
+32:30 - Unidentified Speaker
+So I think we need help to build that for sure. We are not the expert on apps.
+
+32:37 - Unidentified Speaker
+Atul is.
+
+32:38 - Unidentified Speaker
+Yeah, so all right awesome. Well, I do.
+
+32:42 - Emilia Tauss
+Thank you so much for the time I know it's very late for you, so let me get you all the forms and We'll I'll get the thing set up But get back to me on what that half an hour block that you can make it because I need to make sure that it's not during Katie's little meeting as well, so I'll send out that information in 15 minutes, and I really I really appreciate both of you really helping me at this time.
+
+33:10 - Atul Sehgal
+So I really appreciate that.
+
+33:11 - Unidentified Speaker
+Thank you. We appreciate you.
+
+33:15 - Unidentified Speaker
+I mean, listen, I know what you can do.
+
+33:17 - Katie Giesler
+We built some really good things at Swire together. So now that you'll have access to our system, I think you're going to help us see things that we don't even know that we could do and pull together.
+
+33:30 - Unidentified Speaker
+So I really appreciate you.
+
+33:32 - Katie Giesler
+I look forward to it. And making this better for our team.
+
+33:38 - Atul Sehgal
+Definitely, it will be better.
+
+33:39 - Unidentified Speaker
+Thank you so much.
+
+33:41 - Unidentified Speaker
+Thank you. Merry Christmas. Have a good holiday, OK? All right. Bye, guys. Bye, Katie.
+
+33:49 - Unidentified Speaker
+Thank you. Merry Christmas. Thank you.

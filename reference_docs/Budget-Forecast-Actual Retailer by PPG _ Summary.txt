@@ -1,0 +1,64 @@
+Budget-Forecast-Actual Retailer by PPG Discussion
+Thu, Jan 8, 2026
+
+Summary:
+
+The discussion centered on the challenges and improvements needed for the financial reporting tool used by regional retail teams. Missy Wyatt highlighted the difficulties in implementing the leading indicator tool, while Emilia Tauss introduced Lana Jacobson, who oversees financial forecasting and budgeting. The team recognized the need to transition from an Excel-based system to a web application to enhance data integrity and usability. Atul Sehgal confirmed that the new system would facilitate easier data extraction and integration with the Sales and Operations Planning (SNOP) team, emphasizing the importance of SKU-level data for product innovation.
+
+Emilia Tauss led the initiative to develop a web-based forecasting tool that integrates financial data for improved budget management. She plans to collaborate with team members, including Alan, Missy, and Lana, to identify essential features and data requirements. The goal is to provide accurate volume forecasts, track spending, and analyze budget variances while ensuring alignment with existing systems like Anaplan. The discussion also addressed the need to eliminate data silos and create a unified approach to data integration, with plans to onboard Atul as a vendor to access relevant data sources.
+
+The conversation further explored the remapping of leading indicators and the importance of collaboration with IT and Anaplan to avoid duplicating tools. Emilia emphasized the need for a clear methodology for allocating business percentages for promotions, which is vital for effective SNOP execution. The team discussed the integration of actuals into the planning system and the challenges faced in accessing detailed monthly data.
+
+Emilia raised concerns about fragmented sales data and advocated for a unified approach that includes retail dollars in reports, while also addressing the limitations of the current forecasting process in Anaplan. The meeting concluded with a focus on improving data visualization and timely data aggregation to support production and demand planning.
+
+
+Chapters & Topics:
+
+Discussion on Financial Tools and Reporting
+Emilia Tauss introduced Lana Jacobson, the Senior Manager of Financial Planning and Analysis, who oversees financial forecasting and budgeting. The team discussed the need for a web application to replace the current Excel-based leading indicator tool, as it would allow for better data management and reporting. Atul Sehgal confirmed that the new system would facilitate data extraction once the information is entered.
+
+Discussion on Improved Forecasting Tool and Budget Integration
+Emilia Tauss outlined plans to develop a web-based forecasting tool that incorporates financial data for improved budget tracking. She emphasized the need for collaboration with team members, including Alan, Missy, and Lana, to ensure all necessary components are included in the new version. The goal is to create a system that allows for accurate volume forecasting and variance analysis.
+
+Data Integration and Vendor Onboarding Discussion
+Emilia Tauss outlined the challenges of data silos and the need to consolidate data for reporting purposes. She mentioned plans to onboard Atul as a vendor and connect him with Ben, the Anaplan modeler, and Sheila from sales support for better input and feedback on Anaplan functionalities. Additionally, she highlighted the importance of involving IT for the deployment of the web application.
+
+Mapping and Aggregation for Leading Indicators
+Emilia Tauss initiated a conversation with Atul Sehgal about remapping leading indicators to align with the appropriate personnel. They agreed on the necessity of aggregation at the director's level, with Atul indicating that the process should not be overly complicated. He requested a timeline for completion and expressed the need for access to data and collaboration with IT.
+
+Data Integration and Planning Methodology
+Emilia Tauss highlighted the importance of a structured methodology for business percentage allocation to support SNOP execution for retailers like Walmart. She noted that while actuals are being fed into the planning system, there are challenges in accessing detailed monthly actuals in Anaplan. Missy Wyatt confirmed that actuals are uploaded by customer and month, but the budget data is not included.
+
+PPG Financial Reporting and Data Integration
+Emilia Tauss highlighted the existing financial data available at the PPG level and requested the addition of retail dollars to enhance reporting. She sought clarification from Missy Wyatt regarding the Anaplan model, specifically the report that tracks monthly projected volumes based on deals. Missy confirmed that the relevant report is found under promo planning.
+
+Integration of Sales Metrics and Forecasting Tools
+Emilia Tauss discussed the importance of consolidating sales data, including retail dollars, into a single report for better analysis. She proposed that Atul collaborate with Ben and Sheila to identify necessary components for this integration. Additionally, she highlighted the need for a more efficient forecasting process in Anaplan, which currently does not accommodate real-time updates.
+
+Coordination on Anaplan and Production Planning
+Emilia Tauss raised questions about the necessity of a web application to supplement the ANA planning system, highlighting the need for effective data visualization. Missy Wyatt contributed insights on the planning timelines, indicating that demand planning typically looks three months ahead. They agreed on the importance of building a tool that remains relevant beyond a short timeframe and discussed next steps for collaboration.
+
+
+Action Items:
+
+* Katie will send the Excel file to Alan and set up a connection for him to discuss requirements with the team next week.
+* Emilia Tauss will connect Atul Sehgal with Sheila and Ben from the Anaplan team.
+* Emilia Tauss will finalize the SOW (Scope of Work) for the vendor onboarding process.
+* Atul Sehgal will provide the name of the web application to be used for vendor onboarding.
+* Atul Sehgal will research and send details about the web application environment for vendor onboarding.
+* Emilia Tauss will send the Excel file to Atul Sehgal and copy everyone involved.
+* Atul will provide Emilia with the Excel file as the next step in their project collaboration.
+* Emilia Tauss will set up a call for Atul Sehgal to connect with Alan next week.
+
+
+Key Questions:
+
+* How will the data from the new web application be integrated with existing systems?
+* What specific metrics are currently missing from the leading indicator tool?
+* What is the timeline for creating the new web-based leading indicator tool?
+* What is the expected gap between forecasting and informing production?
+
+
+Notepad:
+
+* No notes

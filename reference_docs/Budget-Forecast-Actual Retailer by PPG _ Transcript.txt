@@ -1,0 +1,746 @@
+Budget-Forecast-Actual Retailer by PPG Discussion
+Thu, Jan 8, 2026
+
+0:06 - Unidentified Speaker
+Good morning. Oh, sorry. Good evening.
+
+0:17 - Atul Sehgal
+You're good.
+
+0:18 - Missy Wyatt
+I'm I'm we're actually all here in out in Seattle. We've been in meetings this week. So we're just finishing up. So we've probably got a couple of us are late. In fact, I'm trying to get my computer turned on. I'm just phone. Right now.
+
+0:39 - Missy Wyatt
+Thanks for your.
+
+2:44 - Missy Wyatt
+Hey, Emilia.
+
+2:47 - Emilia Tauss
+Missy, do you hear the music in the background?
+
+2:52 - Emilia Tauss
+Okay, good. That's really good infill. That's crazy. Okay, so hi, Atul.
+
+3:02 - Emilia Tauss
+Can you hear us?
+
+3:05 - Missy Wyatt
+He might have just stepped away because I told him we were all coming out of the meeting here.
+
+3:09 - Emilia Tauss
+Oh, yeah, yeah, yeah.
+
+3:10 - Unidentified Speaker
+And I think, the protein drinks Missy no I came up here to get on the call there's a lot of people hanging out so maybe after this call you can come down and hopefully they're still there yes no I will do that yeah I should have just stayed there because my computer is not connecting to anything right now oh no did you use your computer inside the room the Yeah, but I did it on that network that they had set up for us.
+
+3:49 - Emilia Tauss
+Got it.
+
+3:50 - Unidentified Speaker
+Out of curiosity, I'm not asking. Sorry, sorry.
+
+4:46 - Missy Wyatt
+You guys are on mute, just in case. I don't know.
+
+4:52 - Unidentified Speaker
+Yes, we are on mute. I was doing a sidebar confer to really understand whether Lana is familiar with the
+
+4:59 - Emilia Tauss
+Excel version that Alan was building on the EBSCO, because I mean, I only see it like one, two times. I haven't really digging into each of the specific, but I know one of the metrics was the Budget. I think you're right.
+
+5:23 - Emilia Tauss
+It's evening time for you, right, Atul?
+
+5:28 - Emilia Tauss
+And, uh, when are you going to be back in the States?
+
+5:32 - Unidentified Speaker
+Oh, sorry. It's morning time for me.
+
+5:34 - Atul Sehgal
+Sorry, sorry, sorry.
+
+5:35 - Unidentified Speaker
+It's 4.00 AM. Uh, I will be back. So when are you, when are you going to be back in the States at all?
+
+5:44 - Emilia Tauss
+On 12th of January.
+
+5:47 - Unidentified Speaker
+So it's just upcoming next week.
+
+5:49 - Emilia Tauss
+Cause basically, I mean, I, uh, I was hoping that, uh, Katie can, be here. I mean that's why we move it from two days ago to today is because I want to make sure that you hear it from both Katie, Missy, and Lana. So I'll make some introductions. So Lana, go ahead and introduce yourself. Hi, so I'm Lana Jacobson. I'm the Senior Manager of Financial Planning and Analysis. My team works on our financial Forecast and Budget and have been doing a lot of work on customer profitability reporting and brand profitability reporting.
+
+6:29 - Unidentified Speaker
+Yeah, so.
+
+6:31 - Unidentified Speaker
+Yeah, and then I'm going to let Missy introduce herself, because Missy, you will be you and your team.
+
+6:39 - Emilia Tauss
+We're giving the team direction and how do you leverage all of the stuff that we want to ask you to build? So go ahead, Missy. Oh, yeah.
+
+6:48 - Unidentified Speaker
+So just I mean, I just lead our regional retail sales team so you know I think a tool we are all using the the tool that you built for us last year from a leading indicators perspective so and so until we do you are you having any difficulties with the tool so So I think Katie's team uses it a lot and the focus on that top Retailer, but a lot of the regional retailers, we are asking them to use it too.
+
+7:34 - Emilia Tauss
+And for some reason for the regional, it was not working as well. So I think the team has been challenged to actually use your leading indicator while Katie's team is still using it. So it depends on who you ask.
+
+7:47 - Unidentified Speaker
+We do have some, we do have some team members that are still using it. But I guess, you know, as we're headed into 2026 here, a tool we did go through a complete reorg on the retail sales side of the business.
+
+8:00 - Missy Wyatt
+So all of the accounts, how they're set up now currently in that leading indicator tool, everything is mapped differently to different people. So they all have basically a brand new account base.
+
+8:13 - Unidentified Speaker
+So it actually is it's set up correctly by each of the key count team members. I see.
+
+8:24 - Emilia Tauss
+So maybe while we're waiting for Katie and I can sneak out after this for a little bit just to see if I can track her down. But yeah, if you don't mind. Remind me on the leading indicator right now, is it done and the calendar 445 or calendar Is it weekly level? No, it's monthly.
+
+8:46 - Unidentified Speaker
+It's monthly, okay. And it's based on 445, right? It's the 2025 PPG report that Giselle builds for us is what we use. Yes, okay, cool.
+
+8:58 - Emilia Tauss
+All right, so in the leading indicator, however, right now, Atul, if I'm not mistaken, there is no, like, the financial piece, like the Budget. Account, Budget, and then once we have some kind of data, hopefully we can upload into the leading indicator so that we can see what is the Budget versus the Forecast versus the Actual. And I know you were building it for us pretty quickly last year, and that was using Excel. From what we heard, yeah, from what we heard is we're going to engage with other company who's going to help us build like a lot of reporting. And this is this one of them is leveraging data output of this leading indicator. And then they did mention already, if possible, if you're going to build this, if possible, it should be on a web application as opposed to Excel, because Excel tends to break. People might accidentally override it or whatever. And then the last time we spoke, Atul, you said that, yes, to do it right is actually a web application, correct? That's correct. Got it. And then from the web application, we can extract the data, should be pretty easily once the team enter the information, correct? That is correct, yes.
+
+10:25 - Atul Sehgal
+Okay, awesome, awesome.
+
+10:27 - Emilia Tauss
+So, okay, so Katie is coming? Founder, yeah, she said she's coming. So, okay, so, and then, once you're back in the States next week, I'm going to set up a call for you to meet up with Alan Tell. She used to be in my team, but she's now in marketing. She leads our sales planning. And the reason why I want her to connect with you, I will be sending you the version that she is attempting to build right now. And it's using a gigantic Excel, the example for this Excel, leading indicator Forecast or whatever is in the AppSchool, so Albertson's company as a Retailer. And then why we want to chat with you on that, because as part of once the team plans for that leading indicator, what she needs to do, one of her role is to transfer that information back to our SNOP team, demand planning, supply planning so that they know when to create the product and being able to have it housed in which D.C. And which location. So, that would involve, for example, right, APSCO, whether you plan it at the division level, roll it up, so, or Albertson Corporate, right? What we need to be able to provide is that total by PPG, by month, based on the plan of the account planning or whatnot, then she needs to transform that information for the SNOP team to plan with the production. We need to know how many needs to be created for which region in what DC, right? And that one is not as complicated. Basically, it's basically percent mix of business that roll up into EBSCO. How many percent of business is West region, southeast region, or whatnot. So based on that information, based on allocation of business, then that will be the information that she needs to share with our SNOP team to be able to produce in the right timing, in the right location, in the right warehouse. So that's the one that we do not have that right now in our current leading indicator for Excel, but I would like to have you connect with the Once we collect the data from the sales team, how can we use that information to benefit the SNOP team?
+
+12:59 - Emilia Tauss
+And I know for Ellen, and actually you might discuss that with you, Lana, I believe for the leading indicator, it is at the PPG level, Retailer level PPG. However, I know for Ellen, she would love to know if we can use this exercise as well to help get a gauge on like the innovation and innovation it's skill level right meaning we are launching uh for example like uh uh lifesavers the lifesavers right like this product lifesaver which is replacing the starburst and we have say four or five skew and then in order for the snop to produce innovation it is really need to be at the SKU level, right? Because we need to know is the pineapple selling better than the green apple or like whatever.
+
+13:50 - Unidentified Speaker
+So that was SKU.
+
+13:51 - Emilia Tauss
+So that's another kind of like a little bit of nuances that Alan might need at that level. So I'll make sure that I set up a call once you're back in the state and she's on vacation this week anyway. So that's more like this tool. I would like it to be definitely the improved version of the currently indicator and it needs to be web-based, but at the same time, how can we leverage the same thing, partnering with finance too, to get in the Budget, on the funding and the Budget, and be able to extract data once we collect that information for our reporting as well.
+
+14:33 - Unidentified Speaker
+So, yes.
+
+14:38 - Emilia Tauss
+Oh, did you have a go? Oh, sure. Katie, I know you are closest working with Alan on the current version. As part of my next step, I will send him that Excel. I will set him up to connect with Alan next week because it's better. He will be back in the state next week. But I want to make sure that he can hear directly from you, from Missy, and from Lana about what information that you you need exactly in this leading indicator, pseudo-forecasting, pseudo-budgeting, and all those stuff, so that we will make sure that all those components, what is currently missing from the current indicator, that we include that in the new version. It will be web-based. Yeah, I mean, in the simplest form, just volume forecasting, look at trends, first Budget, first prior year, first Forecast, and then be able to quantify So I have an offline file right now, it's about as simple as could be, where the team is going to play for Q1. And then it's just our basic TPM, as simple as could be. So Ellen's is a lot more complicated. It has a lot more innovation, but she is pulling, I mean, it would be great to pull Lana's financial assumptions in there. And then in that leading indicator, You know, when the team puts in the volume, now she has it by week.
+
+16:08 - Unidentified Speaker
+I mean, that's fine.
+
+16:09 - Emilia Tauss
+But, you know, if we're 10 for 10 week, then ideally with the back-end work that she was working on, and I know Lana's been part of some of this, then they can Forecast what that spend by week will be. And then we roll that up. That was where we were kind of getting to is what the summary of that looked like, And then have a volume and a spend rate. In totality, and then the innovation breakdown gives her what she needs for demand planning. And then, you know, a way to really look at forecasting trends, right? Because what we have today is we input numbers, but we don't have like variances. So you can go back and manually look at three different lines and then go do a formula side to say, okay, I was 10% off my Forecast this month, right?
+
+16:59 - Unidentified Speaker
+So, I mean, it's simple line items, but that wasn't in there when we met last time that we talked about.
+
+17:05 - Emilia Tauss
+And then the financial piece wasn't in there either.
+
+17:07 - Unidentified Speaker
+Yet, but she's done the work on the back end for us to input the costs.
+
+17:14 - Emilia Tauss
+That should feed, but I don't believe that was we were there again. No, and yeah, so we're. Developing a lot of these as part of the KPI. Costs that have gone out. And so I feel like those need to be reviewed and said yes those are good before they go in here. It's like we're creating like the like using Albertsons for example it'd be like okay based on our Budget methodology this is the Albertsons trade spend by PPG by month.
+
+17:50 - Unidentified Speaker
+That's in the Budget.
+
+17:51 - Emilia Tauss
+Yeah and we have a line item of that in here. It so yeah so my thoughts so right now we've got just a total Budget right yeah you've swagged it to do a monthly Budget by customer yeah but but you don't know if things change like I think it needs to go like I feel like it needs to since we're going to measure against them more this year I think it needs to be this is what i've come up with let's review alana's methodology yeah we agree this is and then then it's like Okay, now we can be set. Do you know what I mean? Because rather than me, because it's not like I'm able to just take it from the system. I have to like, yeah, manipulate it to fit within what ties to Budget. So, so I think, like, yes, I feel like that's where the customer focus team comes in. The question is what form do we pull that from Do we pull that?
+
+18:48 - Unidentified Speaker
+Do we take what the The team, again, we don't have it right now by month, right?
+
+18:57 - Unidentified Speaker
+We'll go input the Budget, right?
+
+19:00 - Emilia Tauss
+But then we also need to know what is not swag, but what is predicted right now at a finance level. And then we bounce off that every month. But we get alignment on what we've forecasted for the full year right now. But obviously, things adjust. Okay, so I guess it's.
+
+19:21 - Emilia Tauss
+It's the concept is there. The execution of it isn't there yet. And there's a lot.
+
+19:30 - Unidentified Speaker
+Are you talking about Ellen's tool?
+
+19:32 - Unidentified Speaker
+Yeah, I've seen that. So I don't know.
+
+19:37 - Emilia Tauss
+Yeah, I mean, it's theoretically, it's there, we just got to get enough the back end and put it into it.
+
+19:45 - Unidentified Speaker
+Like, but again, these are all independent.
+
+19:49 - Emilia Tauss
+It's going to be web-based and it'll all roll up. We need that because we don't have that now.
+
+19:55 - Emilia Tauss
+But for me, it's as simple as I want a volume Forecast by week, by month, by promo type, and what we think we're going to sell and how much it's going to cost. And we have an offline spreadsheet for that. We don't do by week, we do by month. The team will say, hey, I've got two weeks to 10 for 10. I'm going to sell 150,000 cases in two weeks at $10. And I'm going to sell four for five for two weeks at $11.
+
+20:22 - Unidentified Speaker
+And then it's just a basic math that calculates it.
+
+20:27 - Emilia Tauss
+But it's all right now. It's every PPG for one customer, one customer summary. So I will have to go in and pull every summary, calculate it, and then roll it up. In my mind, I would keep it that way. Simple but I know there's other requests internally that are looking for you know new item forecasting which again I think that's a whole different conversation of a process that doesn't work and we think it does um so well yeah because we can't we can't capture that out of vanna plan because it just rolls up under the PPG right yeah right so so there's a need for it for sure so I mean I do think her tool once she walks you through Because when she walks you through it originally, it's extremely overwhelming. When she breaks it down to what the inputs actually are, if we have the back end done, it's not that difficult. There's just a couple of things that are not missing, but that have not been added yet.
+
+21:31 - Unidentified Speaker
+Got it.
+
+21:32 - Atul Sehgal
+So I would just say it will also be worthwhile to just talk about what's currently available in AnnaPlan, how are you using AnnaPlan today, and how this tool can complement AnnaPlan, not replace AnnaPlan.
+
+21:50 - Emilia Tauss
+Because the team already entered their deals, right, in AnnaPlan. And then based on the master price book, we know how much funding, so we can project the span.
+
+22:02 - Emilia Tauss
+I guess in AnnaPlan, though, right now, it's just not time and the timing is what we need, right?
+
+22:08 - Unidentified Speaker
+We can get it to the month, I just can't get it to the week, I guess.
+
+22:12 - Missy Wyatt
+Actually, it depends on how they set up the deal.
+
+22:17 - Unidentified Speaker
+So if the deal is set up for two weeks, then we could get it by the week. If it's a longer, you know, so we do have the, I mean, the deals are set up by dates, so we do have that.
+
+22:33 - Emilia Tauss
+So I feel like I need to connect a tool with Sheila and Ben as well, once he's back next week, just to see how level of granularity is inputted. Because we do have a weekly deal, and then we do have the master price book. So when they said, I want know what 445, the deal is, and then based on the cost, and then based on the Omnium recommendation calculator we uploaded into Anaplan, the team actually Oh, if it's 445, if it's Walmart, well, I know Walmart is not 445. Oh, it's actually per week is 1,000 cases. So he, Mike would have put And that's why when you do the pro forma, the number, the final number for a yearly for Walmart matches in the same magnitude as what is in that Omnia, right? But again, it was like a Forecast based on whatever you last listed in. And what we need to capture is that's forecasted, but what is the Actual. That's the Budget. And then again, what's changed? Right, exactly. Because the Budget doesn't shift. So that's where we run into this real-time kind of overspending versus what we're asking.
+
+23:47 - Unidentified Speaker
+Because let me share, we're doing this calendar view. I wonder if Ben could add just within the view the volume.
+
+24:03 - Unidentified Speaker
+Did you see the ping? And then we extract it.
+
+24:08 - Missy Wyatt
+So, sorry, because I'm on my regular computer. It's not probably not that big for you guys. I don't know if I can make it bigger.
+
+24:15 - Unidentified Speaker
+But the costs aren't in here. It's pretty big.
+
+24:18 - Emilia Tauss
+Yeah, it's fine. Oh, is it?
+
+24:20 - Unidentified Speaker
+But the costs aren't in here.
+
+24:22 - Emilia Tauss
+Yeah, it's in the Mostow Price Book would be the cost. It is. If there's, I mean, I guess I don't know. The simple spreadsheet we made will give us what we need to get. It gives me retail dollars, too. It just doesn't aggregate together, so I have to do that independently. But, like, if there's a way to get the customer and the month and the weeks, and then the cost, and that just pulls and aggregates, then that's easier? Or does the cost feed into the back of Ellen's? That's what we were talking about. Or the team, because she built kind of the same structure we have in our simple file, is the team just puts in the cost, or they extract the cost from Anaplan, and they get dumped in. And then when the team puts in the volume, it just Yeah, that's what I told Alan, because Alan is not familiar with Anaplan, so when she was talking about that, she's trying to do, what is the cost? It's all in Anaplan. Oh, but I don't touch on it.
+
+25:32 - Unidentified Speaker
+So, like, how can we, like, merge the two, like, whatever?
+
+25:35 - Missy Wyatt
+Well, I'm just wondering, like, can we just, like, so these are all the, I'm just, I don't have this sorted in any particular way, but this is, I don't even know who we're looking at, because I don't have my, because my screen is so small.
+
+25:50 - Unidentified Speaker
+but it says all the, oh, it says all the, okay, I can't even see it. So it'll give projected volume based on the promo. So we could extract this because you do have the dates.
+
+26:06 - Missy Wyatt
+The only thing you, I don't, did you want the COGS you said, or the cost to the Retailer?
+
+26:10 - Unidentified Speaker
+So, yeah, so we have all those columns.
+
+26:13 - Emilia Tauss
+So right now with Anaplan, if there is any metrics that is missing in here, see we can ask Ben to activate it because that's what happened like he sometimes have a report that has this but missing the DA. He has this report. You need everything. You need the DA, the scan, the projected volume, what the date is so that a tool can roll it up into the month, the four or five months.
+
+26:41 - Unidentified Speaker
+Shared discount is there. So the discount, the shared So the bill back is to the distributor is there. So I feel in this, with the exception of COGS, it's the information's there.
+
+26:58 - Missy Wyatt
+It's just, you got to extract it and then put it in that, in the view that makes the most sense, right? Because again, a lot of these, like the promo starts one, one, and it ends four, five.
+
+27:13 - Unidentified Speaker
+So you've got to be able to extrapolate it out over every week based on what they have here?
+
+27:20 - Emilia Tauss
+Yeah, I mean, I think if we're going to use Ellen's report, then we just need to figure out how to make sure that the financials feed into that, that we can see it, rather than creating another report.
+
+27:40 - Emilia Tauss
+I'm not the expert for that, so they would need All right, so I think first thing – ahead, Atul.
+
+27:54 - Unidentified Speaker
+So there was a mention of forecasting variance. So I was wondering if I can get access to Actual sales to find the variance in the Forecast.
+
+28:09 - Emilia Tauss
+Yeah, so and that's I was going to make a comment, Missy. If you see the ping this morning on Teams, it seems like Ben was able to ingest the Cercana and the VIP actuals into, I think, the weekly Retailer by PPG. So that's awesome because that's exactly what this is for, right?
+
+28:30 - Unidentified Speaker
+We have people budgeted just now forecasting it based on the deal.
+
+28:35 - Emilia Tauss
+Then when the Cercana or VIP data is available post the promotion being right, it needs to be ingested back into the Anaplan, or again, originally if Anaplan is still not ingesting that, it needs to be ingested back into your tool at all. So what I was planning is to create, once your vendor is set up, because we all have the NDA, the MSA signed, we just need to finalize the SOW, but my plan is to onboard you as a vendor once the vendor is set up in our system so that I can give you a talking range email ID that it will be atul-c at talkingrain.com or whatever. And we're going to give you access to Cercana, right? So that you guys, you can figure out how do you set up the data and then it can be extracted.
+
+29:28 - Unidentified Speaker
+And let me know if I'm oversimplifying this, but in my mind, this is a data silos problem, data exist, the data is in so many different places and you all have to bring it all together. Welcome to my world. This will be fixed.
+
+29:46 - Unidentified Speaker
+Yes, yes.
+
+29:48 - Emilia Tauss
+So, yeah, so that's pretty much like for now that that is the immediate project that we need because we cannot wait for 18 for example, because I know we have another stream of project that we're working But whatever that we're trying to do right now, the output of your web-based application, once everything is in one location, will be the input for the reporting in the near future that we're in the roadmap of building, and the reporting will be in the Power BI dashboard. But we need this input.
+
+30:24 - Unidentified Speaker
+We're having a problem because everything is in a silo to And I believe once we create this web app, I would actually integrate some reporting in the web app itself so that you can see the summary of what you're entering or what data we are pulling. It can be summarized right in the tool itself.
+
+30:49 - Emilia Tauss
+Atul, what is your experience?
+
+30:51 - Unidentified Speaker
+Because I know you used Anaplan before.
+
+30:53 - Emilia Tauss
+Are you one of Anaplan modelers? Did you create models? Models in Anaplan?
+
+31:02 - Unidentified Speaker
+No, I have not worked on any models in Anaplan, but I would say I have worked very closely with Anaplan teams.
+
+31:13 - Emilia Tauss
+Yeah, because I think we see one of the things...
+
+31:15 - Unidentified Speaker
+And I can pick that up.
+
+31:18 - Emilia Tauss
+Yeah, I think...
+
+31:21 - Unidentified Speaker
+Oh, no, I mean, it's not...
+
+31:23 - Emilia Tauss
+Because again, if people have not worked with Anaplan, but I know you use Anaplan because CooksWire use Anaplan.
+
+31:29 - Unidentified Speaker
+So you should be familiar with like how it looks and feel and what reporting it should be able to be capable.
+
+31:35 - Emilia Tauss
+So I think it will be good for, again, for me to connect you with Ben, who's the Anaplan modeler, as well as Sheila on my team, who is doing a sales support. And she's the one who deal with the sales team all the time in terms of training, making sure they enter the input into Anaplan on a timely basis for the promotion. And I think it's actually good for you to connect with them because you have seen how ANAPLAN can be done from the like outside perspective, right?
+
+32:04 - Unidentified Speaker
+So, you know, like, hey, why you don't have this in ANAPLAN?
+
+32:07 - Emilia Tauss
+Why is this metrics not available or why this report is not available? So, I think it would be good for you to see that too, like from what we have in the ANAPLAN so that you can give us maybe some input or feedback or say, hey, you might want to have this kind of reporting in Anapland or something like that, that would be great, even though you are not creating it, but you can have that connection with the modeler to let him know what could be done. Yes, certainly.
+
+32:36 - Unidentified Speaker
+And that would be very helpful. I would also add, it will be good if you can connect with me with someone in IT, because when I will develop the web app, I have to definitely deploy it in your environment. The workspace and all that stuff, where to deploy it.
+
+32:55 - Emilia Tauss
+Yeah, I'll connect you with Garrick or maybe potentially Shannon Johnson in the IT team. Again, once we have all the vendors set up, but all the MSAs all done already, and we just need to finalize this SOW, the scope, create a PO.
+
+33:15 - Unidentified Speaker
+If you have to get IT involved, you have to put or a business case. Yeah, agreed.
+
+33:22 - Emilia Tauss
+More about giving them access, not, I think you need to do this. It's more like, like, for example, vendor onboarding, creating an email, that is a standard vendor form. And then as part of the onboarding, I actually have to check what access do I want to give the vendor. Then I'll put, I want D365, I want VIP, I want whatever. So it will be, I want Data Lake, I want whatever, web application or something like that. So Atul, if you can give me the info, like what is the name of that web application that you're going to be using, then I can at least, I can send them an email to them right now just to figure out like, hey, how do I put this in as part of my vendor onboarding?
+
+34:16 - Unidentified Speaker
+just do some research and send you the details. Okay, cool.
+
+34:20 - Emilia Tauss
+All right, Missy, from your end, based on what Katie has already shared, and then I know we need to incorporate the financial, is there anything else that you think, as you are familiar with the leading indicator as it's current state right now, what is missing from there that we need to think about incorporating in this new version?
+
+34:38 - Unidentified Speaker
+Well, the whole thing has to be remapped to the correct people. Mapping people?
+
+34:43 - Emilia Tauss
+Yeah, okay. So, Atul.
+
+34:46 - Unidentified Speaker
+And we may not do it as deeply. Like, we may just take those top regionals versus doing all of them. So, I'll need to collaborate with Kevin and Jennifer on that.
+
+35:01 - Emilia Tauss
+Okay, cool. So, Atul, part of the request, which is similar to the current leading indicator, meaning the account owner plans at the account level, right, but they roll up to a certain So, what we want is to be able to have the aggregation mapping to the director's level. And each director might have two, three, or four key account managers that might manage one or two accounts. So, it's more like about the mapping. So, it's more like aggregation and mapping for organization role at all.
+
+35:35 - Unidentified Speaker
+Yeah, that makes sense. And probably that exists today. Aggregation could be painful in the current Excel tool.
+
+35:46 - Atul Sehgal
+But I think there is a way to aggregate today.
+
+35:50 - Emilia Tauss
+Got it.
+
+35:53 - Emilia Tauss
+So Atul, hearing just very, very top line, hopefully there's not a lot of glitches. What do you think in terms of timeline to be able to create this and ready to go?
+
+36:10 - Atul Sehgal
+Well, you just give me the date.
+
+36:14 - Unidentified Speaker
+You just give me the end date by when you need. And it will be, I will make sure it will be done before that.
+
+36:23 - Emilia Tauss
+Katie wants it yesterday.
+
+36:27 - Emilia Tauss
+Some things don't change at all.
+
+36:30 - Unidentified Speaker
+Yeah, yeah. I mean, it all sounds very doable.
+
+36:36 - Atul Sehgal
+It does not sound very complicated. The only thing is, if you can just fast track the process, I mean, of course, we are not, just getting me in touch with IT, getting me in touch with Anaplan, let me understand Anaplan so that I don't do things that already exist today.
+
+36:56 - Unidentified Speaker
+Like we are not replacing a tool, we are creating another tool which complements the existing tools.
+
+37:04 - Atul Sehgal
+I want to know what I understand that in theory, but it will be good to see in a plan. It will be good to have access to the data.
+
+37:18 - Emilia Tauss
+Sounds good. And then you, Missy, you haven't seen Ellen's file. Do you want to flip Missy? Well, when I right now, it's a shared as a link SharePoint. I'm going to have to download it anyway. So let me download that. I'll send it to a tool and I'll copy you all. It's an Excel. I don't know how big it is, because I know it's a link that I have access to it. So, yeah, but again, one of the things before you were here, she has some other stuff, which is like, again, the innovation. And then, say, the team has created, whether it's Walmart or AppSchool, the plan. And then what she needs to help is how, based on the percentage of business. What's the methodology? And then what, how, she can help cascade it down to the SNOP so that they know how to produce the right PPG for Walmart, Asco, whatever for the upcoming promotion in which DC that needs to be delivered and all those stuff. So it's more like a business percent allocation. So that one is not a problem. I think it's like that more like a top down, but we need to do the bottom up planning. Then the execution for SNOP is top down and with allocation based model. That's pretty much it. Yeah, and I mean, I think the only other thing that's an easy ad is that I don't know if I talked to her about is just kind of what our retail dollar projections are by month. And then what they actually come in at too, because it's one of our KPIs. So that's an easy ad. I just, I don't remember if I talked to her about that.
+
+38:55 - Unidentified Speaker
+All that's getting put in the plan too right now.
+
+38:58 - Unidentified Speaker
+the actuals, so it is getting fed over there.
+
+39:04 - Emilia Tauss
+But how do you, in Anaplan though, like how do you see the actuals by month?
+
+39:11 - Unidentified Speaker
+That's how it's loaded, by month.
+
+39:14 - Emilia Tauss
+But when I go to the customer in Anaplan, I only see the aggregate over on the right side, unless I'm not in the right file.
+
+39:21 - Unidentified Speaker
+I don't think you're in the right place.
+
+39:23 - Missy Wyatt
+There is a place where they're uploading the actuals from Cercana and BIP by customer by month. Now, it doesn't have the Budget, like it doesn't have the, it just shows the actuals.
+
+39:35 - Unidentified Speaker
+So you still like, you'd like still don't.
+
+39:39 - Emilia Tauss
+So that is in the unified sales volume. That's what it's called. Let me just pull it up. If I can do it real quick. I can hold on. Stay tuned. Unified sales volume.
+
+39:55 - Emilia Tauss
+No, this is planning.
+
+40:05 - Emilia Tauss
+Pages, that's my pages still. Let me see if you have it handy. That'll be great. It's just spinning.
+
+40:16 - Unidentified Speaker
+Yeah, let's see.
+
+40:23 - Missy Wyatt
+Hold on, maybe it's going to unlock now.
+
+40:24 - Unidentified Speaker
+Okay, let's see.
+
+40:26 - Emilia Tauss
+All right, let me share my screen.
+
+40:34 - Emilia Tauss
+Because Ellen made a comment that she would go in and update all the actuals into this file, but if it's already updated here, can't you just extract it?
+
+40:42 - Unidentified Speaker
+This is what I told her. It's like, you need to connect with Sheila.
+
+40:46 - Emilia Tauss
+We have all of that in Anaplan. Well, I don't touch Anaplan. But you're going to have to, but instead of teaching it manually, that's why we need a tool to just extract that or whatever. So all the pieces are there, we just need to put their cubes together.
+
+40:59 - Unidentified Speaker
+Yeah, it's like all the pieces are in place, now we just need a place to like sew them all together. Correct, correct.
+
+41:07 - Emilia Tauss
+So a tool over here, you can see there is national account, west, east, convenience, food service. So if you put just national, then the account that shows up on the bottom is only the one that roll up into Katie, right?
+
+41:26 - Unidentified Speaker
+Make sure that's all updated. Cause central shouldn't.
+
+41:29 - Missy Wyatt
+Oh, 2025 would still have central.
+
+41:33 - Emilia Tauss
+And then if you do like say, uh, uh, yeah, this, this is probably still not the right mapping, right? So like West team, which is one of the, no, it is.
+
+41:41 - Unidentified Speaker
+We just for central 2025, up until October.
+
+41:49 - Unidentified Speaker
+That's why it's still Central. But in 2026, Central should not be an option anymore.
+
+41:57 - Emilia Tauss
+Yeah, that's all. Hold on. So 2026. No, it's still in here.
+
+42:03 - Unidentified Speaker
+So we need Ben to update Cleanup. Yeah, it needs Cleanup.
+
+42:08 - Emilia Tauss
+But let's say if we just want to do the East, and I think we do not have the data yet because we just entered into January, but we should have data all the way to December 25.
+
+42:22 - Emilia Tauss
+So this is, and then you can choose, do you want Cercana or do you want VIP? And do you want dollar unit? Because Cercana have dollar unit or roll cases, because we did give Ben the conversion, but VIP, this is 445. So you can see what is- This is what we built. So this is basically That's why I actually said, Giselle, please still continue to update the FISRCANA, but she doesn't update the FIIP. I don't know why, but Giselle is the one who pulled the FISRCANA raw data and FIIP raw data and sent it to Ben so that Ben can update this. So this is already available. So the top one is, again, at the total PPG level by account, but then the second table is the PPG. But because this is, what do you call it? This is for all, you can just click, I just want big Y. So when you do that, the PPG is only for big Y. So can she add retail dollars in there? And then is there a way to, that's like feed in the financials? That's what we need to put together. Cause it's easy to follow. And then you have the stack bar, right? So what we need. So unit sales volume, I don't know. I would have that.
+
+43:47 - Unidentified Speaker
+You have it.
+
+43:48 - Emilia Tauss
+So what we need, Missy, what is in the Anaplan model that have by month based on their deal with that projected volume? What report is that again, Missy? It's, it's deals.
+
+44:02 - Missy Wyatt
+It's deals.
+
+44:03 - Unidentified Speaker
+So you go back to.
+
+44:04 - Missy Wyatt
+Oops, you could just. No, drop down there.
+
+44:12 - Unidentified Speaker
+And do that, UX promo planning. Promo planning. It's great, click on that. Then you're going to have to. Yeah, this up. Then change the sales support. You'll go down to Grocery and Convenience Cam, I believe.
+
+44:34 - Unidentified Speaker
+And then go into their promotional activity summary.
+
+44:37 - Emilia Tauss
+Promo activity and summary. Okay, got it.
+
+44:45 - Unidentified Speaker
+Then if you scroll down. Oh, you have to choose.
+
+44:49 - Emilia Tauss
+So this is big Y because I selected big Y in the other report.
+
+44:55 - Unidentified Speaker
+Yeah, so just, I mean, if you changed it to like ABSCO, then all Jamie is Because stuff would populate there.
+
+45:01 - Missy Wyatt
+What is my deal number?
+
+45:04 - Emilia Tauss
+Oh, is the account? Where is it?
+
+45:06 - Unidentified Speaker
+Yeah, just type ABSCO.
+
+45:07 - Missy Wyatt
+There you go.
+
+45:09 - Emilia Tauss
+National roll up, for example. And then...
+
+45:14 - Unidentified Speaker
+Well, we don't plan them by national, just the... Oh, just the one... Just the SG&A, so pick a division.
+
+45:22 - Emilia Tauss
+Do like...
+
+45:26 - Emilia Tauss
+I think you need to select the... Why is it Walmart over here? This is weird. That's really weird. I don't know what this is. I don't know. So maybe...
+
+45:54 - Emilia Tauss
+Walmart, and then let's do Walmart over here. Let's see if it comes out. So this is why. The functionality is in there, but when Ben built any report, he's like silo. Oh, you want this? I build it for you. Oh, maybe you want this? Oh yeah, absolutely. But that's why what I'm seeing in some of the report is like, I wish you combine this report and that report so that all the metrics in one, because again, the unified sales volume already have the Actual by month, by PPG, by Retailer, whether it's VIP or Sarkana. What we need is to combine it with the- Can we add retail dollars to that PPG report? There is a retail dollars in there. Oh yeah, that's right. So anyway, I'm not going to share this anymore, but that's what I'm saying. I think we need to connect Atul with Ben and Sheila so that We can have him see, like, what is available that he will need some of the components that it might be possible that doesn't need to input anymore. And maybe it's not even creating web because they're entering the deal in a plan. Yeah, but when you're entering the deal in a plan, you're entering in. The time, but you're not entering in the volume, the volume gets new, but the volumes.
+
+47:19 - Emilia Tauss
+No, the volume is because we give them this, let me see.
+
+47:25 - Unidentified Speaker
+Yeah, the volume is just based on the average VPO per promo. So it's not, it's, you know, it's averaged at like no seasonality, nothing's included in it. It's just correct.
+
+47:44 - Emilia Tauss
+I think based on to Forecast.
+
+47:50 - Emilia Tauss
+It would be great to see this in one spot. It is. So, currently, this is an hour and a plan. Ben and Cosmin was about to enter a coefficient elasticity, whether it is a seasonality coefficient or a price point elasticity, but they didn't get around to but Anaplan have the capability. Once we figure out what is the elasticity, we just enter it in there. So the team just need to plan what price point, what date. So it should get that projected volume. So, and again, I'm not super close to Ellen, but I think she kind of built that piece as well. Like the percent mix and all of that is in the back. And that's why you got to validate the methodology. Because that's something that would need to be done with everybody. Yeah So yeah, so I guess that The question is do If we align on moving forward with that file, we make it web-based we get the things that aren't there today Are we good with that moving forward? And then the interim we figure out how to leverage and a plan so that we don't have to have an offline file But you're always gonna have to have it on innovation which the process is horrible today And it's still not great, because now we have an issue with lifesavers. So it's just how do we get in one spot?
+
+49:20 - Unidentified Speaker
+It's just, it's supposed to be always there. We cannot wait for anything else.
+
+49:27 - Unidentified Speaker
+That's why I have a simple spreadsheet.
+
+49:30 - Unidentified Speaker
+Well, I have a question, and sorry if this is a dumb question.
+
+49:35 - Atul Sehgal
+Well, the leading indicator file that we created in Excel, enter data in that file, does that data go into Anaplan?
+
+49:45 - Unidentified Speaker
+No, it's because we don't Forecast in Anaplan, we put a Budget in there so that the Budget changes, it's stagnant.
+
+49:55 - Emilia Tauss
+So no, it doesn't. We use it internally, we use it internally but it doesn't have like the trade spend, that's why we're trying to add that project what we think we're going to spend every month by account.
+
+50:11 - Unidentified Speaker
+You see, so what I was looking at, sorry, the screen that you were showing, Emilia, that was Budget, that was not Forecast?
+
+50:24 - Emilia Tauss
+No, no, the screen that you saw earlier, that is the Actual, that was the one after the promotion happened, that's an Actual FIIP and Actual CERCANA, that's Actual. There is another screen that I was trying to pull it up and we couldn't make it work. It should have what is being planned with the forecasted folio, but not forecasted spend, even though it could be calculated because in Anaplan, we already have what we call the master price book, meaning if Walmart is at 117, the scan is this much, the distributor allowance is much. If in Walmart is actually $1, then they have a different scan and a different DA. So we have to master price book. So we just do not activate that. Again, this is the one that- Well, I mean, we do have it in that view. So like, it does populate- Only forecasted volume, not forecasted span, isn't it? By package.
+
+51:27 - Unidentified Speaker
+By package, Mary Taylor. Total budgeted, hold on here. What does it mean, total budgeted?
+
+51:34 - Emilia Tauss
+I gotta leave in three minutes.
+
+51:40 - Unidentified Speaker
+So here I got Walmart to pull, or Juul, or somebody to pull up, I don't know who it is. Yep, yep, yep. But it is forecasted volume for this promo is 850,000 cases, so it would be the budgeted amount So, that's probably times the $1.50 for the... Yeah, $1.50 is 150.
+
+52:09 - Missy Wyatt
+I don't know if there's a scan. No scan.
+
+52:17 - Emilia Tauss
+See, there is a scan Budget.
+
+52:18 - Unidentified Speaker
+No scan right here. There's nothing. No scan. Yeah, no scan.
+
+52:25 - Unidentified Speaker
+I asked them to add this column so that we could see what it is.
+
+52:33 - Emilia Tauss
+So then how do you... So what we need, right? So this is forecasted, right? What we need is once the Actual CERCANA is available, we need to compare, is it 850 cases or is it 900? And then we know what is the funding.
+
+52:50 - Emilia Tauss
+forecasting, yeah, or Actual spend based on formal.
+
+52:55 - Unidentified Speaker
+Yeah, because we don't have the invoices.
+
+52:57 - Emilia Tauss
+Yeah, that's what we built in the simple file. We just put the cost, and then we have a line item for 10 for 10, and then the formula pulls from that cost based on that volume. So, yeah, I mean, if that can feed into Ellen's file and it's all in one spot, and the team puts the volume in by the promo, and then you know what you're selling, you know what you're innovating So, I think we have some of the information in there, but it's in disparate sources. Yeah, it just needs to be sold. So, hopefully it's an easy project. Well, I think we need to make it easier.
+
+53:47 - Unidentified Speaker
+we could add the retail, the projected retail dollars in here based on the number of cases times the suggested retail price. So if we had been at a column here, we can just extract that data out.
+
+54:01 - Missy Wyatt
+So I feel like there could be some easy tweaks here to also help.
+
+54:07 - Emilia Tauss
+So here's my question, right? There's the question in that case, do we still need the web app application to actually supplement that, or the focus would be more like tweaking the ANA plan to make sure that we have that information, but we still need the visualization.
+
+54:24 - Unidentified Speaker
+We still need the visual. You got to pull the information from ANA planning and make it visual. Make it visual, yeah. Make it visual, yeah. Okay, cool. Yeah, because they're all different.
+
+54:35 - Emilia Tauss
+They're all over in ANA planning, so we have to aggregate it together for easy visualization. I know you have to go. I want to make sure that we do connect this week for the customer.
+
+54:49 - Emilia Tauss
+What is it called?
+
+54:50 - Unidentified Speaker
+Funding request form or whatever.
+
+54:52 - Emilia Tauss
+I think we're very close. So should we just do it online? What time are you guys back home tomorrow? I'm not. I don't plan to 5 p.m. I have a flight at 7 a.m. On Monday. But Monday afternoon I could probably find time. Okay, because I know Adam wants to see it next week, right?
+
+55:10 - Unidentified Speaker
+Let me see. Yeah, but it can be towards the end of the week, so we can work around Katie's schedule.
+
+55:17 - Emilia Tauss
+Okay, so Atul, next step for me, I'll give you that Excel file.
+
+55:20 - Unidentified Speaker
+I'll copy everybody.
+
+55:24 - Emilia Tauss
+You need to give me the web application environment or whatever it is so that I can put it as part of the vendor onboarding. Then I will let you know once your vendor ID is I will let you know the onboarding on the Sarkana ID and all those stuff. And then I will set up time for you to connect with Alan next week, most likely Tuesday or Wednesday.
+
+55:49 - Unidentified Speaker
+And then also have you connect with Sheila, my self-support lead, and Ben, the Anaplan modeler, so that you can see what is in Anaplan and we can figure out what is missing in Anaplan that will be helpful in them so trying to stitch it outside the system it can be in the system and then we'll go from there and hopefully it's what it looks like might be a a pretty easy project yeah yeah it should be it should be if we can understand this holistically like some final details okay like you said the data from here will be used for production planning demand planning so what is the time horizon like when the data like is there a four-week gap before we inform production and the Forecast gets long?
+
+56:40 - Emilia Tauss
+Oh, that is an interesting question because right now, this is funny, and you know this, Anaplan is actually, when they are originally built, is to do demand planning.
+
+56:52 - Unidentified Speaker
+They're what their core expertise before the TPM.
+
+56:56 - Emilia Tauss
+So in the model, by right, whatever this the salespeople in as the forecasted volume by right, whatever that plan is supposed to feed off the demand planning leading indicator as a leading indicator for them. Currently in our ANA plan, the sales model is on a silo, the demand planning module is on a silo, supply planning module is on a silo. So Missy, you might know this better than I do. How many days out are they planning, like I know Retailer is sometimes 60 days, 90 days to do app. How about for demand planning for their production? Do you know, are they like three months out?
+
+57:38 - Missy Wyatt
+I feel like it's three months out.
+
+57:41 - Emilia Tauss
+So I think for that, I mean, right now we have been surviving.
+
+57:45 - Unidentified Speaker
+Sometimes it can be up to six, but I think it's mostly three.
+
+57:50 - Emilia Tauss
+So they have been surviving without having this leading indicator to the level of granularity. That they have one thing to get, but they have not. So for the demand planning piece, I felt like it's awesome if we can build it soon rather than later so that it can help them make more informed decision in allocating the production schedule, as well as allocating the location for the production to support the promotional program at the retailers. So I don't there is any like a deadline per se, but of course, the sooner the better.
+
+58:30 - Unidentified Speaker
+Yeah, sure. So whatever I want to build, I want to build keeping that future in mind and keeping some like we do not want to just build a tool and then throw it away in three months. So I want to keep a few things in mind. So Emily, would you be my point of contact for some questions like these just to understand some finer details?
+
+58:50 - Emilia Tauss
+Yes, sure.
+
+58:51 - Atul Sehgal
+OK, OK.
+
+58:55 - Emilia Tauss
+And then, you know, if I don't know the answer, we can set up a call with the subject matter expert on that particular function.
+
+59:06 - Atul Sehgal
+Thank you. Thank you.
+
+59:11 - Emilia Tauss
+And Missy, I mean, I think what we could do too, maybe some of the elasticity coefficient, if we can maybe just like figure out, hey, based on the Omnium, we think it's a thousand, because obviously I need to really figure out the Walmart, right? It's not as detrimental as what we'd have expected. So I'm sure the coefficient that we use on the elasticity is not accurate because it's too aggressive to show that, you know, the impact on the volume is X, where in reality, the result is Y. So we want to know that standard deviation. It's more like, a separate project because I know you can create a regression analysis, right? So I want to probably get your point of view of, hey, this is what we get as a coefficient. That's why we built our planning for Walmart to be this volume. But in reality, this is in the last 12 weeks. This is the result of the price increase. It's not as detrimental as what we expected. So I'm sure the coefficient that we use was inaccurate.
+
+1:00:16 - Atul Sehgal
+Yes, because there are other factors in play as well, seasonality, holiday, and what not.
+
+1:00:22 - Emilia Tauss
+All right, Missy, so roll up, and then we need to give you the mapping for the rollout for the account ownership to the certain director so we can roll it up, reporting that way. And it looks like, Missy, based on what we see just now in ANA plan, the mapping, oh, you know what, Missy, the mapping, why is still inaccurate? I spoke with Malik.
+
+1:00:44 - Emilia Tauss
+I think that is the work that she is doing next week.
+
+1:00:49 - Unidentified Speaker
+So I I don't know why I thought it was up to date now.
+
+1:00:54 - Emilia Tauss
+But I guess that unified volume is still not translating but okay, I will think.
+
+1:01:02 - Unidentified Speaker
+Because it's probably I think they just need to remove sent they might not be able to take it out or or remove 2025 and that's why it's still showing up for So I'm not super familiar with it. But I think it could be like if you click on it should always be nothing. There should be no accounts there now.
+
+1:01:22 - Emilia Tauss
+All right. All right. So I think once a tool we can finalize the S.O.W. And then we can get it good to go.
+
+1:01:35 - Unidentified Speaker
+I'm excited to get started on this.
+
+1:01:39 - Emilia Tauss
+All right. Well, safe travel. Have a great weekend and see you virtually next week. And I will set up time for you and Missy, I'll put the optional connect with Ellen on that Excel file.
+
+1:01:53 - Unidentified Speaker
+Thanks, everybody.
+
+1:01:54 - Unidentified Speaker
+And if possible, let's do a meeting with Ellen. I'm sorry.
+
+1:02:00 - Atul Sehgal
+Thank you. If possible, let's do a meeting with Ellen on Wednesday instead of Tuesday because The back on Tuesday around midday.
+
+1:02:10 - Emilia Tauss
+Oh, so, I mean, I'll push it to, like, Wednesday. She's in Jamaica right now vacationing. So, she, I think she won't be back till the 13 anyway. So, I think she needs about a day to catch up with her work.
+
+1:02:21 - Unidentified Speaker
+So, would 14 be better?
+
+1:02:25 - Unidentified Speaker
+Yes, that will be better. All right. Thanks, Atul. Looking forward to working with you.
+
+1:02:34 - Atul Sehgal
+Yeah, me too. Thank you so much.
+
+1:02:37 - Emilia Tauss
+Take care.
+
+1:02:39 - Atul Sehgal
+Thank you.
