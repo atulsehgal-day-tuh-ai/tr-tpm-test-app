@@ -106,6 +106,14 @@ Then open `http://localhost:3000`.
 
 This is the clean “enterprise” path when you **cannot (or don’t want to) run Docker locally**.
 
+#### Executive summary (non-technical)
+
+We deploy this Node.js/Next.js application as a **container image** (a packaged, self-contained “app box” that includes the code and everything it needs to run). Instead of building that container on a developer laptop, we use **GitHub Actions** as a controlled build system that creates the container image every time we push changes to the `main` branch.
+
+The container image is stored in **Azure Container Registry (ACR)**, which is Azure’s private storage for container images. **Azure App Service** then runs the app by pulling the latest approved image from ACR. To keep this secure, App Service uses a **Managed Identity** with the minimum required permission (**AcrPull**) so it can pull images from ACR **without any registry passwords**.
+
+Overall: **GitHub Actions builds → ACR stores → App Service runs**, and configuration (database URL, Azure AD IDs) is provided via **App Settings** in Azure rather than hard-coded in the application.
+
 #### What we are building (concepts)
 
 - **GitHub Actions**: a build server that runs in GitHub. It will build the container image for you on every push.
