@@ -280,6 +280,94 @@ az webapp config appsettings set -g tr-tpm-rg -n tr-tpm-test-app-v1 --settings \
   NEXT_PUBLIC_AZURE_AD_REDIRECT_URI="https://tr-tpm-test-app-v1.azurewebsites.net"
 ```
 
+#### Azure AD (Entra ID) login: important notes
+
+Purpose: make sure users can sign in successfully using the correct Entra App Registration.
+
+- Use the **App Registration for the web app** (example display name: `TR TPM Test App`) for:
+  - `NEXT_PUBLIC_AZURE_AD_CLIENT_ID`
+  - `NEXT_PUBLIC_AZURE_AD_TENANT_ID`
+- Do **NOT** use the GitHub Actions service principal app (example display name: `tr-tpm-gh-actions`). That identity is only for CI/CD to push images.
+
+Entra App Registration configuration (Azure Portal → Microsoft Entra ID → App registrations → your app → **Authentication**):
+
+- Add a **Single-page application (SPA)** Redirect URI:
+  - `https://tr-tpm-test-app-v1.azurewebsites.net`
+- (Optional) for local testing add:
+  - `http://localhost:3000`
+
+Runtime verification endpoints (safe):
+
+- Check the app sees your env vars:
+  - `https://tr-tpm-test-app-v1.azurewebsites.net/api/public-config`
+
+---
+
+#### Database: Azure Database for PostgreSQL (Flexible Server) setup (basic testing)
+
+Purpose: create a Postgres database in Azure and allow the web app to connect.
+
+1) Create / open your server: Azure Database for PostgreSQL Flexible Server (example: `db-tr-tpm-test`).
+
+2) Networking (quick test):
+   - PostgreSQL server → **Networking**
+   - Enable **Public access**
+   - Check **Allow public access from any Azure service within Azure to this server**
+   - Save
+
+3) Authentication mode (important):
+   - PostgreSQL server → **Security → Authentication**
+   - Select **PostgreSQL authentication only**
+   - Click **Reset password** and set a password for the admin login (example: `tr_test_admin`)
+   - Save
+
+4) Set `DATABASE_URL` in the Web App:
+
+Example format:
+
+```text
+postgresql://tr_test_admin:<PASSWORD>@db-tr-tpm-test.postgres.database.azure.com:5432/postgres?sslmode=require
+```
+
+Notes:
+- `sslmode=require` is recommended for Azure Postgres.
+- If your password contains special characters (like `@`), URL-encode them (example: `@` → `%40`).
+
+5) Restart the Web App after changing settings:
+
+```bash
+az webapp restart -g tr-tpm-rg -n tr-tpm-test-app-v1
+```
+
+6) Verify database connectivity:
+   - `https://tr-tpm-test-app-v1.azurewebsites.net/api/test-db`
+
+If it fails, the API returns a `details` block (error code/message) to help IT troubleshoot (for example wrong password, firewall, SSL).
+
+---
+
+#### Forcing App Service to pull the newest container image
+
+Purpose: sometimes `:latest` is cached; pinning to a specific image tag forces a new pull.
+
+1) List tags in ACR:
+
+```bash
+az acr repository show-tags -n trtpmacr12345 --repository tr-tpm-test-app --orderby time_desc --top 10 -o table
+```
+
+2) Set the Web App to a specific tag (example tag is a git SHA):
+
+```bash
+az webapp config container set \
+  -g tr-tpm-rg \
+  -n tr-tpm-test-app-v1 \
+  --docker-custom-image-name trtpmacr12345.azurecr.io/tr-tpm-test-app:<TAG> \
+  --docker-registry-server-url https://trtpmacr12345.azurecr.io
+```
+
+Then restart the app.
+
 ---
 
 ### Step A11) Restart and verify
