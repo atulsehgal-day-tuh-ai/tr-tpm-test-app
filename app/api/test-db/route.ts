@@ -11,6 +11,19 @@ export async function GET() {
     )
   }
 
+  // Fast-fail with a helpful message (avoid generic "connection failed")
+  const hasDbUrl = !!(process.env.DATABASE_URL || process.env.POSTGRESQLCONNSTR_DATABASE_URL)
+  if (!hasDbUrl) {
+    return NextResponse.json(
+      {
+        success: false,
+        error:
+          'DATABASE_URL is not configured for this app. Set it in Azure App Service → Environment variables (App settings), then restart the app.',
+      },
+      { status: 500 }
+    )
+  }
+
   try {
     // Test connection
     const connected = await testDatabaseConnection()

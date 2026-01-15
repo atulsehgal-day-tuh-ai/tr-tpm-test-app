@@ -2,9 +2,20 @@ import { Pool } from 'pg';
 
 let pool: Pool | null = null;
 
+function getDatabaseUrl(): string | undefined {
+  // Preferred: standard env var used by this app
+  if (process.env.DATABASE_URL) return process.env.DATABASE_URL;
+
+  // Azure App Service "Connection strings" (PostgreSQL) commonly surfaces as POSTGRESQLCONNSTR_<NAME>.
+  // If someone created a connection string named DATABASE_URL, Azure exposes it as POSTGRESQLCONNSTR_DATABASE_URL.
+  if (process.env.POSTGRESQLCONNSTR_DATABASE_URL) return process.env.POSTGRESQLCONNSTR_DATABASE_URL;
+
+  return undefined;
+}
+
 export function getPool(): Pool {
   if (!pool) {
-    const connectionString = process.env.DATABASE_URL;
+    const connectionString = getDatabaseUrl();
     
     if (!connectionString) {
       throw new Error('DATABASE_URL environment variable is not set');
