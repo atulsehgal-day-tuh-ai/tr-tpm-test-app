@@ -26,10 +26,14 @@ export async function GET() {
 
   try {
     // Test connection
-    const connected = await testDatabaseConnection()
-    if (!connected) {
+    const connectionTest = await testDatabaseConnection()
+    if (!connectionTest.ok) {
       return NextResponse.json(
-        { success: false, error: 'Database connection failed' },
+        {
+          success: false,
+          error: 'Database connection failed',
+          details: connectionTest.error,
+        },
         { status: 500 }
       )
     }

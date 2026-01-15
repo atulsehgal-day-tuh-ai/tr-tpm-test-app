@@ -44,15 +44,38 @@ export function getPool(): Pool {
 }
 
 // Test database connection
-export async function testDatabaseConnection(): Promise<boolean> {
+export type DbTestResult =
+  | { ok: true }
+  | {
+      ok: false
+      error: {
+        name?: string
+        code?: string
+        errno?: string
+        syscall?: string
+        message?: string
+      }
+    }
+
+export async function testDatabaseConnection(): Promise<DbTestResult> {
   try {
     const pool = getPool();
     const result = await pool.query('SELECT NOW()');
     console.log('Database connected successfully:', result.rows[0]);
-    return true;
+    return { ok: true };
   } catch (error: any) {
     console.error('Database connection error:', error);
-    return false;
+    return {
+      ok: false,
+      error: {
+        name: error?.name,
+        code: error?.code,
+        errno: error?.errno,
+        syscall: error?.syscall,
+        // Message can include hostnames, but should not include passwords.
+        message: error?.message,
+      },
+    };
   }
 }
 
