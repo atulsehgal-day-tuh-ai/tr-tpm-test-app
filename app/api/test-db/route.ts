@@ -2,15 +2,18 @@ import { NextResponse } from 'next/server'
 import { getPool, testDatabaseConnection, initializeDatabase } from '@/lib/db'
 
 export async function GET() {
-  // #region agent log
-  fetch('http://127.0.0.1:7242/ingest/e50cdf43-d269-49e6-99d3-0563c13462a8',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'app/api/test-db/route.ts:5',message:'API route entry',data:{hasDatabaseUrl:!!process.env.DATABASE_URL},timestamp:Date.now(),sessionId:'debug-session',runId:'run1',hypothesisId:'B'})}).catch(()=>{});
-  // #endregion
+  // During `next build`, some environments/tools may invoke route handlers.
+  // We never want a production build to require DB connectivity.
+  if (process.env.npm_lifecycle_event === 'build') {
+    return NextResponse.json(
+      { success: false, error: 'DB checks are disabled during build' },
+      { status: 503 }
+    )
+  }
+
   try {
     // Test connection
     const connected = await testDatabaseConnection()
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/e50cdf43-d269-49e6-99d3-0563c13462a8',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'app/api/test-db/route.ts:9',message:'testDatabaseConnection result',data:{connected},timestamp:Date.now(),sessionId:'debug-session',runId:'run1',hypothesisId:'D'})}).catch(()=>{});
-    // #endregion
     if (!connected) {
       return NextResponse.json(
         { success: false, error: 'Database connection failed' },
@@ -31,9 +34,6 @@ export async function GET() {
       timestamp: result.rows[0]?.created_at,
     })
   } catch (error: any) {
-    // #region agent log
-    fetch('http://127.0.0.1:7242/ingest/e50cdf43-d269-49e6-99d3-0563c13462a8',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'app/api/test-db/route.ts:29',message:'API error caught',data:{errorMessage:error?.message,errorCode:error?.code,errorName:error?.name},timestamp:Date.now(),sessionId:'debug-session',runId:'run1',hypothesisId:'A,B,D'})}).catch(()=>{});
-    // #endregion
     console.error('Database API error:', error)
     return NextResponse.json(
       {

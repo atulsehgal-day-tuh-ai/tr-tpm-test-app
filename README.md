@@ -37,6 +37,20 @@ NEXT_PUBLIC_AZURE_AD_TENANT_ID=your-tenant-id-here
 NEXT_PUBLIC_AZURE_AD_REDIRECT_URI=http://localhost:3000
 ```
 
+#### Using Azure Database for PostgreSQL (Flexible Server)
+
+- **Get the connection string**: Azure Portal → your PostgreSQL server → **Connection strings**
+- **SSL**: Azure Postgres requires SSL. This app enables SSL automatically when your `DATABASE_URL` contains `.postgres.database.azure.com`.
+
+Example `DATABASE_URL` formats:
+
+```env
+# Example (Azure Database for PostgreSQL - Flexible Server)
+# NOTE: Your username often looks like: adminuser@your-server-name
+# NOTE: URL-encode special characters in passwords (e.g., @ becomes %40)
+DATABASE_URL=postgresql://adminuser%40your-server-name:yourPassword@your-server-name.postgres.database.azure.com:5432/yourDbName
+```
+
 ### Database Setup
 
 1. Create a PostgreSQL database:
@@ -67,6 +81,54 @@ npm run dev
 3. Test the components:
    - **Azure AD**: Click "Login with Azure AD" to test authentication
    - **PostgreSQL**: Click "Test Database Connection" to verify database connectivity
+
+## Docker (containerized deployment)
+
+This repo includes a `Dockerfile` that packages the app using Next.js **standalone** output.
+
+### Build the image
+
+```bash
+docker build -t tr-tpm-test-app:local .
+```
+
+### Run the container locally
+
+```bash
+docker run --rm -p 3000:3000 --env-file .env.local tr-tpm-test-app:local
+```
+
+Then open `http://localhost:3000`.
+
+## Deploy: Azure App Service (Linux Container)
+
+High-level steps (typical enterprise Azure path):
+
+1. **Create an Azure Container Registry (ACR)** (or use an existing one).
+2. **Build + push the image** to ACR.
+3. **Create an App Service (Linux)** configured to run the container image from ACR.
+4. **Set App Service Configuration → Application settings**:
+   - `DATABASE_URL`
+   - `NEXT_PUBLIC_AZURE_AD_CLIENT_ID`
+   - `NEXT_PUBLIC_AZURE_AD_TENANT_ID`
+   - `NEXT_PUBLIC_AZURE_AD_REDIRECT_URI` (should be your app URL, not localhost)
+5. **Azure Database for PostgreSQL**:
+   - Ensure **network access** is configured (Firewall / Private Endpoint / VNet integration)
+   - Ensure SSL is enabled (Azure requires it)
+
+## Deploy: AWS ECS (Fargate)
+
+High-level steps:
+
+1. **Create an ECR repo** (or use an existing one).
+2. **Build + push the image** to ECR.
+3. **Create an ECS Task Definition** exposing port `3000`.
+4. **Create an ECS Service** (Fargate) behind an ALB.
+5. **Set env vars / secrets** (ECS task env vars or AWS Secrets Manager):
+   - `DATABASE_URL`
+   - `NEXT_PUBLIC_AZURE_AD_CLIENT_ID`
+   - `NEXT_PUBLIC_AZURE_AD_TENANT_ID`
+   - `NEXT_PUBLIC_AZURE_AD_REDIRECT_URI` (should be your app URL)
 
 ## Project Structure
 
