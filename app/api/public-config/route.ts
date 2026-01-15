@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server'
 
+export const dynamic = 'force-dynamic'
+export const runtime = 'nodejs'
+
 /**
  * Exposes non-secret runtime config to the browser.
  * This is used so App Service environment variables can be changed without rebuilding the frontend bundle.
