@@ -402,6 +402,115 @@ Verification checklist:
   - Confirm Azure Postgres firewall/network allows the App Service outbound IPs (see Web App → Properties → outbound IPs).
   - Ensure SSL is enabled (Azure Postgres requires it).
 
+---
+
+## Operating Model for the Real Application (Dev → Stage → Prod)
+
+This section describes a simple, low-hassle way to run 3 environments across Git, the app, the database, and secrets. The goal is: **build once, promote upward**, and keep production stable.
+
+### Environments (recommended)
+- **Dev**: daily development and quick iteration
+- **Stage (UAT)**: production-like testing and business sign-off
+- **Prod**: locked-down, audited, stable
+
+---
+
+## 1) Git + CI/CD (how code moves upward)
+
+**Goal:** the same code and container image moves from Dev → Stage → Prod with approvals.
+
+### Branch strategy (simple)
+- **`main`** → deploys to **Dev**
+- **`release`** (or `staging`) → deploys to **Stage**
+- **`prod`** (or tags like `v1.2.3`) → deploys to **Prod**
+
+### Promotion steps
+1. Develop on a feature branch → PR into `main` (Dev deploy)
+2. Validate in Dev → PR `main` → `release` (Stage deploy)
+3. UAT sign-off → PR `release` → `prod` (Prod deploy) OR tag a release (e.g., `v1.0.0`)
+
+### Guardrails (recommended)
+- Require PRs (no direct push) to `release` / `prod`
+- Require CI checks to pass before merge
+- Use **immutable image tags** (commit SHA) for Stage/Prod (avoid `latest`)
+
+---
+
+## 2) Application layer (containers)
+
+**Goal:** separate app instances per environment; only configuration differs.
+
+Create three Azure App Service instances (Linux containers):
+- `app-dev`
+- `app-stage`
+- `app-prod`
+
+Each should run:
+- Dev: can use a moving tag (optional)
+- Stage/Prod: pinned tag (e.g., `tr-tpm-test-app:<GIT_SHA>`)
+
+### Required App Settings per environment
+- `DATABASE_URL` (different per env)
+- `NEXT_PUBLIC_AZURE_AD_CLIENT_ID`
+- `NEXT_PUBLIC_AZURE_AD_TENANT_ID`
+- `NEXT_PUBLIC_AZURE_AD_REDIRECT_URI` (must match that env URL)
+- `WEBSITES_PORT=3000`
+- `WEBSITES_ENABLE_APP_SERVICE_STORAGE=false`
+
+---
+
+## 3) Database layer
+
+**Goal:** Dev data never touches Prod; schema changes are controlled.
+
+Recommended setup:
+- Separate DBs/servers:
+  - `db_dev`
+  - `db_stage`
+  - `db_prod`
+
+### Migrations
+Use a migration tool (Prisma / Flyway / Liquibase / etc.) and apply migrations:
+- Automatically in Dev
+- With approval in Stage
+- With strict change control in Prod
+
+### Data policy (recommended)
+- Dev: dummy/synthetic data
+- Stage: masked/sanitized data if needed
+- Prod: real data with backups + retention + least-privilege access
+
+---
+
+## 4) Secrets and configuration
+
+**Goal:** secrets never live in code; they are injected per environment.
+
+Recommended:
+- Use **Azure Key Vault** (or AWS Secrets Manager if on AWS)
+- Store secrets:
+  - `DATABASE_URL`
+  - API keys / tokens
+- Keep non-secret config as env vars (e.g., `NEXT_PUBLIC_*`)
+
+---
+
+## 5) Access control / governance
+
+**Goal:** least privilege, with increasing controls by environment.
+
+- Dev: small engineering group
+- Stage: testers + admins
+- Prod: restricted admins, auditing, and an emergency “break-glass” path
+
+---
+
+## Rollback strategy
+
+Because Stage/Prod use pinned container tags, rollback is simple:
+- Reconfigure the Web App to point to the previous known-good image tag
+- Restart the Web App
+
 ## Deploy: AWS ECS (Fargate)
 
 High-level steps:
