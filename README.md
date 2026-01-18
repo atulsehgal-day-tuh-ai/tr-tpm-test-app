@@ -469,6 +469,65 @@ Recommended setup:
   - `db_stage`
   - `db_prod`
 
+---
+
+## Production performance & scale strategy (100 concurrent users)
+
+For a user base around **100 concurrent users** on a stack like **Next.js + Prisma + Azure PostgreSQL**, “slowness” is usually not caused by user count. It is almost always caused by **inefficient data handling** (too many DB round-trips, heavy queries, no indexes, large grids rendering too much, etc.).
+
+TPM apps can feel “heavy” because they involve **math, large grids, and complex filtering**. Use the strategy below to keep a “zero-latency” feel.
+
+### 1) Database layer: connection pooling (crucial)
+
+**Problem:** If many users save at the same moment, the app can open too many DB connections. Postgres has connection limits; once exceeded, users experience latency or failures.
+
+**Solution:** Use **connection pooling** (a small set of DB connections reused efficiently).
+
+**How to do it in Azure:**
+- Azure Database for PostgreSQL Flexible Server can be configured for pooling using **pgBouncer / connection pooling** (availability/UX varies by Azure region and server configuration).
+- In Azure Portal, check your Postgres server for:
+  - **Connection pooling** settings, and/or
+  - `pgbouncer` related settings in **Server parameters**
+
+**How to do it in Prisma:**
+- Use the pooling connection endpoint/port provided by Azure (often a different port than 5432; confirm in the Azure Portal).
+- Keep using an **immutable** connection string per environment and store it as a secret (Key Vault).
+
+### 2) Application layer: optimistic UI (how it “feels instant”)
+
+**Problem:** User edits a budget cell → spinner → wait for server → UI updates. Even 200–500ms feels slow in spreadsheet-like experiences.
+
+**Solution:** **Optimistic updates**: update the UI immediately, then save in the background; rollback if the server fails.
+
+**How to implement:**
+- Use **React Query** or **SWR** for data fetching + optimistic mutations.
+- Combine with table virtualization (only render visible rows) for large grids.
+
+### 3) Data layer: indexing & summary tables (fast dashboards)
+
+**Problem:** Dashboards that aggregate across large history tables can become slow as data grows (e.g., millions of rows).
+
+**Solutions:**
+- **Indexes:** add indexes on columns you filter/join frequently (retailer, product, date, promotion id, etc.).
+  - In Prisma, this typically means adding `@@index([...])` to your models.
+- **Materialized views / summary tables (advanced):**
+  - Precompute heavy aggregates (hourly/daily) into a summary table.
+  - Dashboards read summaries (fast) instead of scanning raw history (slow).
+
+### 4) Infrastructure: right-sizing Azure
+
+**Dev/Test:** Burstable tiers can be cost-effective for occasional usage, but can degrade under sustained load.
+
+**Prod:** Use a tier with **guaranteed CPU** (general purpose/compute-optimized depending on your workload) and size based on:
+- number of concurrent editors
+- size of grids
+- complexity of calculations/queries
+- expected growth of history tables
+
+### Practical action plan (simple)
+- Start with pooling + indexing + optimistic UI first (largest impact).
+- Add summary tables/materialized views only when real data volume justifies it.
+
 ### Migrations
 Use a migration tool (Prisma / Flyway / Liquibase / etc.) and apply migrations:
 - Automatically in Dev
